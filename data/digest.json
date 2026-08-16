@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-16",
-  "generatedAt": "2026-08-15T22:38:59.475Z",
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-16T18:23:34.891Z",
   "picks": [
     {
       "title": "How Claude's text watermarking works",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic官方详解文本水印技术，关乎AI安全与溯源，行业标杆动态必读。"
+      "reason": "Anthropic官方详解文本水印技术，兼具隐私与安全价值"
     },
     {
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "sourceUrl": "https://z.ai/blog/glm-5.3",
+      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+      "sourceUrl": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "source": "Hacker News",
-      "reason": "GLM-5.3登HN头条，前沿编码能力与新兴网络能力引发热议，值得关注。"
+      "reason": "犀利观点：AI靠记忆而非思考，引发数学本质反思"
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "sourceUrl": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "Hacker News",
+      "reason": "Nature综述药物发现AI现状，权威且具产业指导性"
     },
     {
       "title": "State of Open Models: Summer 2026 Observations",
       "sourceUrl": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "source": "HuggingFace Blog",
-      "reason": "HuggingFace夏季开源模型观察，盘点生态格局与趋势，信息密度高。"
+      "reason": "开源模型半年态势总结，把握生态演进关键窗口"
     },
     {
-      "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
-      "sourceUrl": "http://arxiv.org/abs/2608.13517v1",
-      "source": "arXiv",
-      "reason": "1B参数开源模型用合规数据达前沿性能，对开源社区意义重大。"
-    },
-    {
-      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
-      "sourceUrl": "http://arxiv.org/abs/2608.13522v1",
-      "source": "arXiv",
-      "reason": "探讨AI智能体构建形式化验证软件，直击可靠性与安全痛点。"
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "sourceUrl": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "source": "Hacker News",
+      "reason": "同态加密落地AI隐私实践，实用化突破值得关注"
     }
   ],
-  "trendSummary": "本周AI圈聚焦于模型安全与能力边界，开源生态持续扩张，产学研合作加速落地，同时多篇研究深入探讨了评测基准与算法优化，整体趋势更务实、更注重实际应用与风险管控。"
+  "trendSummary": "本周AI圈聚焦于模型安全与开源生态，文本水印和风险报告引发热议，同时高校与企业合作加速本土人才培养，前沿模型在编码与推理上的突破也持续受到关注。"
 }
