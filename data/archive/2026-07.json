@@ -817,7 +817,7 @@
     "image": "https://bair.berkeley.edu/static/blog/grads2026/baifeng-shi.jpg",
     "aiSelected": true,
     "origin": "rss:bair",
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-07-01T23:45:11.271Z",
     "aiNote": null,
     "fetchedAt": null,
@@ -32860,7 +32860,7 @@
     "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bailey-Flanigan.jpg?itok=DtZFVT8B",
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-27T03:58:34.384Z",
     "aiNote": null,
     "fetchedAt": null,
@@ -39331,7 +39331,7 @@
     "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo",
     "aiSelected": true,
     "origin": "rss:deepmind",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-07-21T23:21:25.434Z",
     "aiNote": null,
     "fetchedAt": null,
@@ -41747,7 +41747,7 @@
     "aiNote": null,
     "image": null,
     "fetchedAt": null,
-    "engagement": 2260,
+    "engagement": 2262,
     "tier": 2
   },
   {
@@ -45470,7 +45470,7 @@
       "ocr",
       "Python"
     ],
-    "heat": 20,
+    "heat": 21,
     "aiSelected": true,
     "origin": "github",
     "firstSeen": "2026-07-27T02:52:11.295Z",
@@ -52851,7 +52851,7 @@
       "android",
       "TypeScript"
     ],
-    "engagement": 2087,
+    "engagement": 2088,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55872,7 +55872,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
     "tier": 1
@@ -55906,7 +55906,7 @@
     "aiSelected": true,
     "origin": "rss:nvidia",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-07-27T23:27:56.392Z",
     "fetchedAt": null,
     "tier": 1
@@ -58959,7 +58959,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-07-28T23:16:51.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -62340,7 +62340,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 595,
+    "engagement": 596,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64369,7 +64369,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 1
@@ -64823,7 +64823,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 19,
+    "heat": 20,
     "firstSeen": "2026-07-30T23:18:56.537Z",
     "fetchedAt": null,
     "tier": 2
@@ -67511,7 +67511,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-07-31T23:16:18.546Z",
     "fetchedAt": null,
     "tier": 1
