@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-17T22:42:21.622Z",
-  "count": 757,
+  "fetchedAt": "2026-08-18T22:42:36.038Z",
+  "count": 795,
   "sources": {
     "hf-papers": 50,
     "github": 80,
-    "hackernews": 118,
+    "hackernews": 117,
     "rss:openai": 20,
-    "rss:anthropic": 0,
-    "rss:meta-ai": 0,
+    "rss:anthropic": 20,
+    "rss:meta-ai": 20,
     "rss:google-ai": 20,
     "rss:deepmind": 20,
     "rss:google-research": 10,
@@ -44,15 +44,12 @@
     "rss:qbitai": 10,
     "rss:jiqizhixin": 20,
     "rss:xinzhiyuan": 20,
-    "rss:geekpark": 14,
+    "rss:geekpark": 15,
     "rss:36kr": 0,
-    "rss:infoq": 13,
-    "rss:sspai": 1,
-    "rss:ithome": 4,
+    "rss:infoq": 11,
+    "rss:sspai": 3,
+    "rss:ithome": 3,
     "arxiv": 20
   },
-  "errors": {
-    "rss:anthropic": "HTTP 503 Service Unavailable <- https://news.google.com/rss/search?q=site:anthropic.com&hl=en-US&gl=US&ceid=US:en",
-    "rss:meta-ai": "HTTP 503 Service Unavailable <- https://news.google.com/rss/search?q=site:ai.meta.com&hl=en-US&gl=US&ceid=US:en"
-  }
+  "errors": {}
 }
