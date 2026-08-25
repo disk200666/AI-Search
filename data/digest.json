@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-25",
-  "generatedAt": "2026-08-24T22:45:28.971Z",
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-25T22:46:25.369Z",
   "picks": [
     {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "sourceUrl": "https://openai.com/index/gpt-5-6-in-kiro",
+      "title": "The full stack behind abundant intelligence",
+      "sourceUrl": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
       "source": "OpenAI",
-      "reason": "GPT-5.6发布，开发者成本与性能关键更新"
+      "reason": "OpenAI CFO解读全栈AI战略，行业风向标价值高"
     },
     {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "source": "Ars Technica",
-      "reason": "斯坦福研究揭示AI对入门岗位就业冲击"
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "sourceUrl": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI",
+      "reason": "自研推理芯片首秀，性能效率双突破，硬件竞争新焦点"
     },
     {
-      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-      "sourceUrl": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
-      "source": "NVIDIA",
-      "reason": "英伟达新架构大幅提升AI代理能效"
+      "title": "How to Train a Critic Stably and Efficiently",
+      "sourceUrl": "http://arxiv.org/abs/2608.23566v1",
+      "source": "arXiv",
+      "reason": "GRPO训练稳定性新方法，直接提升LLM强化学习效率"
     },
     {
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-      "sourceUrl": "https://reinvently.co.uk/tools/ed-o-meter/",
-      "source": "Hacker News",
-      "reason": "开源模型性价比突破，挑战闭源巨头"
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "HuggingFace Blog",
+      "reason": "4-bit量化模型反超原版，压缩技术里程碑式进展"
     },
     {
-      "title": "Mistral x HUMAIN",
-      "sourceUrl": "https://mistral.ai/news/mistral-x-humain/",
-      "source": "Mistral AI",
-      "reason": "Mistral新合作，关注AI应用落地"
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "OpenAI",
+      "reason": "AI安全治理实战案例，揭露俄方虚假信息行动具警示意义"
     }
   ],
-  "trendSummary": "本周AI圈焦点转向极端场景生成、推理效率跃升与智能体落地，多家厂商以硬件革新和模型迭代推高性价比，同时反思AI依赖对编程能力的影响，整体呈现务实加速与自我审视并行的态势。"
+  "trendSummary": "本周AI圈聚焦于模型效率提升与安全治理，从量化压缩到推理加速，技术优化成为核心议题，同时平台工具链的完善与内容安全防护也备受关注，整体呈现务实推进的态势。"
 }
