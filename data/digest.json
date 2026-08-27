@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-26",
-  "generatedAt": "2026-08-25T22:46:25.369Z",
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T03:20:00.140Z",
   "picks": [
     {
-      "title": "The full stack behind abundant intelligence",
-      "sourceUrl": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "source": "OpenAI",
-      "reason": "OpenAI CFO解读全栈AI战略，行业风向标价值高"
+      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+      "sourceUrl": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+      "source": "NVIDIA",
+      "reason": "NVIDIA NVLink Fusion与定制HBM，AI基础设施关键突破，影响"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "sourceUrl": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI",
-      "reason": "自研推理芯片首秀，性能效率双突破，硬件竞争新焦点"
-    },
-    {
-      "title": "How to Train a Critic Stably and Efficiently",
-      "sourceUrl": "http://arxiv.org/abs/2608.23566v1",
+      "title": "Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving",
+      "sourceUrl": "http://arxiv.org/abs/2608.26074v1",
       "source": "arXiv",
-      "reason": "GRPO训练稳定性新方法，直接提升LLM强化学习效率"
+      "reason": "自动驾驶意图分歧预测，提升交互安全，实用价值高。"
     },
     {
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "HuggingFace Blog",
-      "reason": "4-bit量化模型反超原版，压缩技术里程碑式进展"
+      "title": "$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning",
+      "sourceUrl": "http://arxiv.org/abs/2608.26053v1",
+      "source": "arXiv",
+      "reason": "强化学习教机器人自然语言推理，具身智能前沿进展。"
     },
     {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI",
-      "reason": "AI安全治理实战案例，揭露俄方虚假信息行动具警示意义"
+      "title": "Prefix Sliding for efficient test-time scaling",
+      "sourceUrl": "http://arxiv.org/abs/2608.26070v1",
+      "source": "arXiv",
+      "reason": "测试时计算高效扩展新方法，直击大模型推理成本痛点。"
+    },
+    {
+      "title": "How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention",
+      "sourceUrl": "http://arxiv.org/abs/2608.26052v1",
+      "source": "arXiv",
+      "reason": "LoRA秩选择理论分析，为高效微调提供严谨指导。"
     }
   ],
-  "trendSummary": "本周AI圈聚焦于模型效率提升与安全治理，从量化压缩到推理加速，技术优化成为核心议题，同时平台工具链的完善与内容安全防护也备受关注，整体呈现务实推进的态势。"
+  "trendSummary": "本周AI圈聚焦硬件创新与垂直领域落地，从高带宽内存到血糖监测、工程合规乃至行星预测，基础模型正加速渗透各行业，同时强调可解释性与人机协作，技术应用更趋务实多元。"
 }
