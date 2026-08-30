@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-29T03:43:59.722Z",
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T00:21:53.950Z",
   "picks": [
     {
       "title": "Automated researchers can reliably mitigate alignment failures",
       "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic重磅研究，自动化对齐缓解方案，安全关键"
+      "reason": "AI对齐失败自动修复，安全研究重大突破"
     },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI",
-      "reason": "OpenAI终止与Cursor合作，行业影响重大"
+      "reason": "OpenAI终止Cursor合作，行业格局生变"
     },
     {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "sourceUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI",
-      "reason": "OpenAI拓展泰国AI生态，地缘战略布局"
+      "title": "GLM-5.3 is now open-weight",
+      "sourceUrl": "https://huggingface.co/zai-org/GLM-5.3",
+      "source": "Hacker News",
+      "reason": "GLM-5.3开源权重，国产模型新进展"
     },
     {
       "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs",
       "sourceUrl": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
       "source": "Apple ML Research",
-      "reason": "苹果揭示LLM概率信念不一致性，研究价值高"
+      "reason": "揭示LLM概率判断非贝叶斯，认知科学价值高"
     },
     {
-      "title": "SWE-Prime: Fewer Trajectories, Better Performance",
-      "sourceUrl": "http://arxiv.org/abs/2608.27449v1",
+      "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+      "sourceUrl": "http://arxiv.org/abs/2608.27439v1",
       "source": "arXiv",
-      "reason": "SWE-Prime提升代码修复效率，工程实用性强"
+      "reason": "红队智能体经验进化，安全测试新范式"
     }
   ],
-  "trendSummary": "本周AI圈聚焦于模型可靠性、开源生态与硬件标准，从对齐风险到概率一致性均有突破，同时全球化布局加速，开发者工具与科学支持并进，整体呈现务实深耕态势。"
+  "trendSummary": "本周AI圈聚焦安全评估与开源生态，自动对齐研究、模型自我评判及开源权重发布并行，同时关注全球化应用与科学支持，趋势务实且多元。"
 }
