@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-30",
-  "generatedAt": "2026-08-30T00:21:53.950Z",
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T00:38:11.102Z",
   "picks": [
     {
-      "title": "Automated researchers can reliably mitigate alignment failures",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5",
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "sourceUrl": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "source": "Hacker News",
+      "reason": "法院裁定政府黑名单违法，直接影响AI监管与行业格局。"
+    },
+    {
+      "title": "Beneficial Deployments",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tUjhUSk5BM3ctZ1I5clprQ3d4dmxablE3VDBoY1RVaUU4TnJ5ZGpSUk96OGViUm96cDJyczdUV3kySjZxZXhLckVyZ2E2YXpaeVV3UjB4TXR0UDhG?oc=5",
       "source": "Anthropic",
-      "reason": "AI对齐失败自动修复，安全研究重大突破"
+      "reason": "Anthropic官方部署指南，关乎AI安全落地的核心实践。"
     },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI",
-      "reason": "OpenAI终止Cursor合作，行业格局生变"
+      "reason": "OpenAI终止Cursor合作，折射AI生态竞争与并购连锁反应。"
     },
     {
       "title": "GLM-5.3 is now open-weight",
       "sourceUrl": "https://huggingface.co/zai-org/GLM-5.3",
       "source": "Hacker News",
-      "reason": "GLM-5.3开源权重，国产模型新进展"
+      "reason": "GLM-5.3开源权重，国产模型新突破，开发者关注度高。"
     },
     {
-      "title": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs",
-      "sourceUrl": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
-      "source": "Apple ML Research",
-      "reason": "揭示LLM概率判断非贝叶斯，认知科学价值高"
-    },
-    {
-      "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
-      "sourceUrl": "http://arxiv.org/abs/2608.27439v1",
-      "source": "arXiv",
-      "reason": "红队智能体经验进化，安全测试新范式"
+      "title": "Agency and Agents",
+      "sourceUrl": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "source": "Ethan Mollick",
+      "reason": "从Hugging Face事件谈AI代理，观点独到，启发思考。"
     }
   ],
-  "trendSummary": "本周AI圈聚焦安全评估与开源生态，自动对齐研究、模型自我评判及开源权重发布并行，同时关注全球化应用与科学支持，趋势务实且多元。"
+  "trendSummary": "本周AI圈聚焦于安全对齐与部署实践，同时开源模型持续发力，语音识别覆盖更广，AI初创生态与科研支持也成热点，整体呈现务实与多元并进的态势。"
 }
