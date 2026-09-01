@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-31T00:38:11.102Z",
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T01:19:15.308Z",
   "picks": [
     {
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "sourceUrl": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "source": "Hacker News",
-      "reason": "法院裁定政府黑名单违法，直接影响AI监管与行业格局。"
-    },
-    {
-      "title": "Beneficial Deployments",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tUjhUSk5BM3ctZ1I5clprQ3d4dmxablE3VDBoY1RVaUU4TnJ5ZGpSUk96OGViUm96cDJyczdUV3kySjZxZXhLckVyZ2E2YXpaeVV3UjB4TXR0UDhG?oc=5",
+      "title": "Improving our alignment and security practices",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic官方部署指南，关乎AI安全落地的核心实践。"
+      "reason": "Anthropic官方安全实践更新，行业风向标"
     },
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "sourceUrl": "https://openai.com/index/polimill",
       "source": "OpenAI",
-      "reason": "OpenAI终止Cursor合作，折射AI生态竞争与并购连锁反应。"
+      "reason": "OpenAI助力日本公共AI，落地案例亮眼"
     },
     {
-      "title": "GLM-5.3 is now open-weight",
-      "sourceUrl": "https://huggingface.co/zai-org/GLM-5.3",
+      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+      "sourceUrl": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+      "source": "Google Research",
+      "reason": "谷歌零样本时序预测模型，技术突破"
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "TechCrunch",
+      "reason": "五角大楼用ChatGPT，AI军事化里程碑"
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "sourceUrl": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "source": "Hacker News",
-      "reason": "GLM-5.3开源权重，国产模型新突破，开发者关注度高。"
-    },
-    {
-      "title": "Agency and Agents",
-      "sourceUrl": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "source": "Ethan Mollick",
-      "reason": "从Hugging Face事件谈AI代理，观点独到，启发思考。"
+      "reason": "苹果AI硬件需求超预期，市场信号强"
     }
   ],
-  "trendSummary": "本周AI圈聚焦于安全对齐与部署实践，同时开源模型持续发力，语音识别覆盖更广，AI初创生态与科研支持也成热点，整体呈现务实与多元并进的态势。"
+  "trendSummary": "本周AI圈聚焦安全对齐与开源生态，同时基础模型加速向时序预测、病理分析等垂直领域渗透，量子计算与具身智能的交叉创新也持续升温。"
 }
