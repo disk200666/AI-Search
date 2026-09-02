@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-01",
-  "generatedAt": "2026-09-01T01:19:15.308Z",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T00:16:03.205Z",
   "picks": [
     {
-      "title": "Improving our alignment and security practices",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic官方安全实践更新，行业风向标"
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "sourceUrl": "https://openai.com/index/polimill",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "sourceUrl": "https://openai.com/index/path-to-astra",
       "source": "OpenAI",
-      "reason": "OpenAI助力日本公共AI，落地案例亮眼"
+      "reason": "OpenAI首个满足关键网络安全能力的模型，前沿安全里程碑"
     },
     {
-      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-      "sourceUrl": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-      "source": "Google Research",
-      "reason": "谷歌零样本时序预测模型，技术突破"
+      "title": "Claude Fable 5.1 & Claude Mythos 5.1 System Card",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVThfM0tLb2w5WWUySzFvSzllMnNIeTFZSU01bXVHejVHeEc4dGZuV0pDZEtpNENSRHh2X1FXU3gzWEEwU0hHNjZtTG5TNmJqaGtpcnRTcVFLSWE1S1d0d1gzYmdrN1J0ekRlWGd1OVFyMjBIRWVMWWR1S0JMc3d6a2EtQjkyNGtXaGs1bER5NE04ZzRiUy1fSUdvME1EMnR0OVpwRFRWU0xEeFF0ZURHU1ZDZlM4SmdQRUtnamZfbWVtNV9GNUF1UFJSWjBXaXVXLVBOYmlR?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic新一代模型系统卡发布，技术细节与安全评估全面"
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch",
-      "reason": "五角大楼用ChatGPT，AI军事化里程碑"
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "sourceUrl": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "HuggingFace Blog",
+      "reason": "200+WebGPU内核开源，本地AI推理性能重大突破"
     },
     {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "sourceUrl": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "source": "Hacker News",
-      "reason": "苹果AI硬件需求超预期，市场信号强"
+      "title": "The latest AI news we announced in August 2026",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI",
+      "reason": "谷歌8月AI更新汇总，覆盖多产品线动态值得关注"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "sourceUrl": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "HuggingFace Blog",
+      "reason": "深度剖析LLM基准测试的真实含义，行业反思价值高"
     }
   ],
-  "trendSummary": "本周AI圈聚焦安全对齐与开源生态，同时基础模型加速向时序预测、病理分析等垂直领域渗透，量子计算与具身智能的交叉创新也持续升温。"
+  "trendSummary": "本周AI圈焦点从模型评测转向实际落地，企业级安全与视频理解成为新热点，同时多模态工具和空间应用加速渗透，行业正从炫技走向务实赋能。"
 }
