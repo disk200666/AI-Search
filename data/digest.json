@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-02",
-  "generatedAt": "2026-09-02T00:16:03.205Z",
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T00:17:29.636Z",
   "picks": [
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "sourceUrl": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI",
-      "reason": "OpenAI首个满足关键网络安全能力的模型，前沿安全里程碑"
+      "title": "System helps humans predict when self-driving cars will make mistakes",
+      "sourceUrl": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+      "source": "MIT News",
+      "reason": "提升自动驾驶安全性，预测失误机制具重大现实价值。"
     },
     {
-      "title": "Claude Fable 5.1 & Claude Mythos 5.1 System Card",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVThfM0tLb2w5WWUySzFvSzllMnNIeTFZSU01bXVHejVHeEc4dGZuV0pDZEtpNENSRHh2X1FXU3gzWEEwU0hHNjZtTG5TNmJqaGtpcnRTcVFLSWE1S1d0d1gzYmdrN1J0ekRlWGd1OVFyMjBIRWVMWWR1S0JMc3d6a2EtQjkyNGtXaGs1bER5NE04ZzRiUy1fSUdvME1EMnR0OVpwRFRWU0xEeFF0ZURHU1ZDZlM4SmdQRUtnamZfbWVtNV9GNUF1UFJSWjBXaXVXLVBOYmlR?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic新一代模型系统卡发布，技术细节与安全评估全面"
+      "title": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs",
+      "sourceUrl": "https://machinelearning.apple.com/research/refactor-vla-motor-programs",
+      "source": "Apple ML Research",
+      "reason": "VLA模型新突破，无监督学习推动机器人操作前沿。"
     },
     {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "sourceUrl": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "HuggingFace Blog",
-      "reason": "200+WebGPU内核开源，本地AI推理性能重大突破"
+      "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
+      "sourceUrl": "http://arxiv.org/abs/2609.01604v1",
+      "source": "arXiv",
+      "reason": "揭示LLM评估机制局限，对评测可信度有深刻启示。"
     },
     {
-      "title": "The latest AI news we announced in August 2026",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "title": "Mapping global methane emissions from space with deep learning",
+      "sourceUrl": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+      "source": "Google Research",
+      "reason": "深度学习用于甲烷监测，AI应对气候变化的典范。"
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "source": "Google AI",
-      "reason": "谷歌8月AI更新汇总，覆盖多产品线动态值得关注"
-    },
-    {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "sourceUrl": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "HuggingFace Blog",
-      "reason": "深度剖析LLM基准测试的真实含义，行业反思价值高"
+      "reason": "主动网络防御新方案，关乎政府与企业安全关键。"
     }
   ],
-  "trendSummary": "本周AI圈焦点从模型评测转向实际落地，企业级安全与视频理解成为新热点，同时多模态工具和空间应用加速渗透，行业正从炫技走向务实赋能。"
+  "trendSummary": "本周AI热点聚焦于技术落地与安全挑战，从自动驾驶预测到量子部署，再到企业防御和甲烷监测，AI正加速融入现实场景，同时行业也在反思评测体系，推动更务实的发展。"
 }
