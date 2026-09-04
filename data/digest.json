@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-03",
-  "generatedAt": "2026-09-03T00:17:29.636Z",
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T00:14:33.206Z",
   "picks": [
     {
-      "title": "System helps humans predict when self-driving cars will make mistakes",
-      "sourceUrl": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
-      "source": "MIT News",
-      "reason": "提升自动驾驶安全性，预测失误机制具重大现实价值。"
+      "title": "GPT-6 Astra",
+      "sourceUrl": "https://openai.com/index/gpt-6-astra/",
+      "source": "Hacker News",
+      "reason": "GPT-6 Astra系统卡发布，核心模型安全细节值得关注。"
     },
     {
-      "title": "REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs",
-      "sourceUrl": "https://machinelearning.apple.com/research/refactor-vla-motor-programs",
-      "source": "Apple ML Research",
-      "reason": "VLA模型新突破，无监督学习推动机器人操作前沿。"
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "sourceUrl": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "reason": "谷歌最强天气AI模型，实用价值高且影响广泛。"
     },
     {
-      "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
-      "sourceUrl": "http://arxiv.org/abs/2609.01604v1",
-      "source": "arXiv",
-      "reason": "揭示LLM评估机制局限，对评测可信度有深刻启示。"
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "source": "NVIDIA",
+      "reason": "英伟达推动本地AI，边缘计算趋势重要信号。"
     },
     {
-      "title": "Mapping global methane emissions from space with deep learning",
-      "sourceUrl": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-      "source": "Google Research",
-      "reason": "深度学习用于甲烷监测，AI应对气候变化的典范。"
+      "title": "Safety overview: GPT-6 Astra",
+      "sourceUrl": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI",
+      "reason": "GPT-6安全概述，了解最先进模型风险与防护。"
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI",
-      "reason": "主动网络防御新方案，关乎政府与企业安全关键。"
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI",
+      "reason": "OpenAI十亿美元投入关键服务防护，战略意义大。"
     }
   ],
-  "trendSummary": "本周AI热点聚焦于技术落地与安全挑战，从自动驾驶预测到量子部署，再到企业防御和甲烷监测，AI正加速融入现实场景，同时行业也在反思评测体系，推动更务实的发展。"
+  "trendSummary": "本周AI圈焦点集中在GPT-6 Astra的密集发布与生态落地，从安全评估到多行业实测效率提升，同时英伟达加速本地AI部署，气象模型与多模态编码器也带来突破，整体呈现大模型实用化与垂直深耕并进的态势。"
 }
