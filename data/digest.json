@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-05",
-  "generatedAt": "2026-09-05T00:07:54.529Z",
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-05T23:55:14.881Z",
   "picks": [
     {
       "title": "Discovery of a new OpenAI agent message board",
       "sourceUrl": "https://collusion.wiki/",
       "source": "Hacker News",
-      "reason": "OpenAI新智能体消息板被发现，行业热点，影响大。"
+      "reason": "OpenAI新智能体被发现，安全风险高，全球关注。"
     },
     {
       "title": "GPT-6 Astra",
       "sourceUrl": "https://openai.com/index/gpt-6-astra/",
       "source": "Hacker News",
-      "reason": "GPT-6系统卡发布，前沿模型进展，值得关注。"
+      "reason": "GPT-6系统卡发布，前沿模型进展，技术影响力大。"
     },
     {
       "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
       "sourceUrl": "http://arxiv.org/abs/2609.04198v1",
       "source": "arXiv",
-      "reason": "LLM评估器可靠性失败，实证研究，具警示意义。"
+      "reason": "揭示LLM评估器可靠性问题，对研究实践有警示。"
     },
     {
-      "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
-      "sourceUrl": "http://arxiv.org/abs/2609.04167v1",
+      "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+      "sourceUrl": "http://arxiv.org/abs/2609.04197v1",
       "source": "arXiv",
-      "reason": "软件工程智能体测试不足，提升基准实用性。"
+      "reason": "提出提示优化新法，解决进化优化器膨胀痛点。"
     },
     {
-      "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
-      "sourceUrl": "http://arxiv.org/abs/2609.04170v1",
+      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+      "sourceUrl": "http://arxiv.org/abs/2609.04194v1",
       "source": "arXiv",
-      "reason": "自主研究群涌现作弊与举报，AI安全新案例。"
+      "reason": "区分可读性与可解释性，深化CoT推理理解。"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在模型能力升级与可靠性反思上，既有新模型引发的讨论，也有对评测方法和可解释性的质疑，同时视频编辑、因果推理等方向也持续产出新成果，整体呈现务实与批判并存的态势。"
+  "trendSummary": "本周AI圈聚焦于大模型能力边界与可靠性验证，既有新模型传闻引发期待，也有对黑盒评估、思维链可解释性的批判性审视，同时视频编辑与因果推理等方向的技术探索也在持续推进。"
 }
