@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-06T23:55:54.714Z",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T00:26:33.669Z",
   "picks": [
     {
-      "title": "Research acceleration: The view inside OpenAI",
-      "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "title": "Supporting independent journalism in Ukraine",
+      "sourceUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "source": "OpenAI",
-      "reason": "独家视角揭示OpenAI内部研究加速，洞见AI未来方向"
+      "reason": "AI赋能新闻业，兼具社会价值与行业意义"
     },
     {
       "title": "An Alien Mind",
       "sourceUrl": "https://openai.com/index/an-alien-mind",
       "source": "OpenAI",
-      "reason": "OpenAI核心人物反思AI能力增长与对齐挑战，深度前瞻"
+      "reason": "OpenAI核心人物反思AI进化，洞见深刻"
     },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
       "sourceUrl": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "source": "Hacker News",
-      "reason": "警示AI接管运维后工程师技能退化，引发行业深思"
+      "reason": "揭示AI运维隐患，对工程师影响深远"
     },
     {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "sourceUrl": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "source": "Hacker News",
-      "reason": "实证AI搜索价格偏差，关乎消费者利益与平台公平"
+      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
+      "sourceUrl": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+      "source": "The Decoder",
+      "reason": "GPT-6自主通关游戏，展示强推理能力"
     },
     {
-      "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours",
-      "sourceUrl": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
-      "source": "MarkTechPost",
-      "reason": "Meta新模型优化实验排序，节省GPU资源，实用性强"
+      "title": "How AI wiped out an entire industry in Nairobi",
+      "sourceUrl": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+      "source": "The Decoder",
+      "reason": "AI冲击就业的真实案例，警示意义强"
     }
   ],
-  "trendSummary": "本周AI圈聚焦于OpenAI内部研究提速与新智能体讨论区，同时大模型在数学证明、可靠性评估及视频编辑上取得突破，提示优化与可解释性研究也在持续深化。"
+  "trendSummary": "本周AI圈热点集中在开源模型评测、多模态推理与垂直应用加速，同时关注独立新闻支持与智能体工具调用，整体呈现务实落地与伦理反思并行的趋势。"
 }
