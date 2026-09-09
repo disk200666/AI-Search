@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-08T00:26:33.669Z",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T00:16:35.213Z",
   "picks": [
     {
-      "title": "Supporting independent journalism in Ukraine",
-      "sourceUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "sourceUrl": "https://openai.com/index/codex-quantum-computing-experiments",
       "source": "OpenAI",
-      "reason": "AI赋能新闻业，兼具社会价值与行业意义"
+      "reason": "AI驱动量子实验，展现前沿交叉突破"
     },
     {
-      "title": "An Alien Mind",
-      "sourceUrl": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI",
-      "reason": "OpenAI核心人物反思AI进化，洞见深刻"
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "sourceUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "reason": "人类基因组预测图，生命科学里程碑"
     },
     {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "sourceUrl": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "title": "Introducing ChatGPT Images 2.5",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI",
+      "reason": "图像生成新版本，创意工具再升级"
+    },
+    {
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "sourceUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "source": "Mistral AI",
+      "reason": "30亿欧元融资，开源AI格局生变"
+    },
+    {
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "sourceUrl": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "source": "Hacker News",
-      "reason": "揭示AI运维隐患，对工程师影响深远"
-    },
-    {
-      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
-      "sourceUrl": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
-      "source": "The Decoder",
-      "reason": "GPT-6自主通关游戏，展示强推理能力"
-    },
-    {
-      "title": "How AI wiped out an entire industry in Nairobi",
-      "sourceUrl": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
-      "source": "The Decoder",
-      "reason": "AI冲击就业的真实案例，警示意义强"
+      "reason": "无AI功能反创纪录，行业反思有趣"
     }
   ],
-  "trendSummary": "本周AI圈热点集中在开源模型评测、多模态推理与垂直应用加速，同时关注独立新闻支持与智能体工具调用，整体呈现务实落地与伦理反思并行的趋势。"
+  "trendSummary": "本周AI圈焦点从个人智能体与多模态工具，延伸到科学计算与基因研究，同时开源模型获巨额融资，安全议题更趋细化，整体呈现应用深化与责任并行的态势。"
 }
