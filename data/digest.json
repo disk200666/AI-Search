@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-09T00:16:35.213Z",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T00:16:33.584Z",
   "picks": [
     {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "sourceUrl": "https://openai.com/index/codex-quantum-computing-experiments",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "sourceUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "source": "OpenAI",
-      "reason": "AI驱动量子实验，展现前沿交叉突破"
+      "reason": "OpenAI最强企业模型发布，或重塑商业AI格局。"
     },
     {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "sourceUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "Google DeepMind",
-      "reason": "人类基因组预测图，生命科学里程碑"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "sourceUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "source": "OpenAI",
-      "reason": "图像生成新版本，创意工具再升级"
+      "reason": "关键安全人物加入董事会，影响AI治理方向。"
     },
     {
-      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-      "sourceUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "title": "Economic Scenarios for Transformative AI",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnkxbFNBbk5aakJtVGhqVnZZZWxMcFdvazItYm9tYlBuVU5EMUdFTkRxREZaVnFHSVBRNzF0eWJRQkNFQ2RTQjFvSy03MnM1VkN5ekhjcVZrOGx2R0poMFpFUkptcWMtNWhZOERtWjR6OHlla1lELW1lTXJHbFRPRmdsRE1pb24tSzJDYl9Bd0d0RlRRd1pWMUNxYkIwZw?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic发布变革性AI经济情景前瞻报告。"
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "sourceUrl": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI",
+      "reason": "OpenAI高层呼吁加强AI安全立法，政策信号强。"
+    },
+    {
+      "title": "Modernizing complex legacy code with AI agents.",
+      "sourceUrl": "https://mistral.ai/news/legacy-code-modernization/",
       "source": "Mistral AI",
-      "reason": "30亿欧元融资，开源AI格局生变"
-    },
-    {
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "sourceUrl": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "source": "Hacker News",
-      "reason": "无AI功能反创纪录，行业反思有趣"
+      "reason": "AI成功迁移4万行老旧代码，具行业示范价值。"
     }
   ],
-  "trendSummary": "本周AI圈焦点从个人智能体与多模态工具，延伸到科学计算与基因研究，同时开源模型获巨额融资，安全议题更趋细化，整体呈现应用深化与责任并行的态势。"
+  "trendSummary": "本周AI热点聚焦教育普及与商业化落地，学界携手赋能跨学科教学，开源模型加速行业应用，同时政策窗口开启引发对经济转型与安全治理的深度讨论。"
 }
