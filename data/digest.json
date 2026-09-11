@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-10",
-  "generatedAt": "2026-09-10T00:16:33.584Z",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T00:12:11.907Z",
   "picks": [
     {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "sourceUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI",
-      "reason": "OpenAI最强企业模型发布，或重塑商业AI格局。"
+      "title": "DeepSeek v4.1 Flash",
+      "sourceUrl": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "source": "Hacker News",
+      "reason": "DeepSeek新模型发布，国产大模型前沿突破，最受关注"
     },
     {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "sourceUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "title": "Introducing the Agents API",
+      "sourceUrl": "https://openai.com/index/introducing-the-agents-api",
       "source": "OpenAI",
-      "reason": "关键安全人物加入董事会，影响AI治理方向。"
+      "reason": "OpenAI推出Agents API，智能体开发进入托管时代"
     },
     {
-      "title": "Economic Scenarios for Transformative AI",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTnkxbFNBbk5aakJtVGhqVnZZZWxMcFdvazItYm9tYlBuVU5EMUdFTkRxREZaVnFHSVBRNzF0eWJRQkNFQ2RTQjFvSy03MnM1VkN5ekhjcVZrOGx2R0poMFpFUkptcWMtNWhZOERtWjR6OHlla1lELW1lTXJHbFRPRmdsRE1pb24tSzJDYl9Bd0d0RlRRd1pWMUNxYkIwZw?oc=5",
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcVVuc004cms0OWlHYm9ZanBnaXJVWDgtWHNRWGhROEtCSVg3aDVxcFBoVU94UnpJVTV4cmhYVjRhUzFkMTFwNjljMVRiT0ZYR1Q2SW5VN2RET1hTbzJkdDB5aFJkV3kxVG1YYkZ3cVV4Z1VWak1lakQtMXJQOFhYXw?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic发布变革性AI经济情景前瞻报告。"
+      "reason": "Anthropic对齐评估网络安全事件，AI安全关键议题"
     },
     {
-      "title": "The AI policy window is open. We need to act.",
-      "sourceUrl": "https://openai.com/index/ai-policy-window",
+      "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTY0c01YMl93bHRWWDNiU0VMYnQwM1VHdDlkZ0VYdlRnOTFoM3RKYTczWVNQZlhtdVkwdkFmbGFWLU9qWmFDOWZfUlJMWl9nUnBoODhCb2ZRWGo0ZnQ5emtNbkstZXpScUlaXzNQd3FKWUcxZXJYV2VmZmIwZDFhcWRfdUpkTGpkNXpfcmhIaFhKaWZldGc?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic评估AI军事目标定位能力，安全边界探讨"
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-financial-services",
       "source": "OpenAI",
-      "reason": "OpenAI高层呼吁加强AI安全立法，政策信号强。"
-    },
-    {
-      "title": "Modernizing complex legacy code with AI agents.",
-      "sourceUrl": "https://mistral.ai/news/legacy-code-modernization/",
-      "source": "Mistral AI",
-      "reason": "AI成功迁移4万行老旧代码，具行业示范价值。"
+      "reason": "ChatGPT进军金融服务，垂直行业落地重要信号"
     }
   ],
-  "trendSummary": "本周AI热点聚焦教育普及与商业化落地，学界携手赋能跨学科教学，开源模型加速行业应用，同时政策窗口开启引发对经济转型与安全治理的深度讨论。"
+  "trendSummary": "本周AI热点集中在物理AI与机器人落地，同时企业级金融、医疗和政府应用加速铺开。"
 }
