@@ -11967,7 +11967,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-08-07T01:33:58.898Z",
     "fetchedAt": null,
     "tier": 2
@@ -26087,7 +26087,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
     "tier": 1
@@ -26499,7 +26499,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
     "tier": 1
@@ -35450,7 +35450,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": "调度顺序优化竟能提升33%利用率，揭示算力分配中的隐藏杠杆。",
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-17T22:42:13.059Z",
     "fetchedAt": null,
     "tier": 1
@@ -35755,7 +35755,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": "英伟达开放底层工具链，推动企业自建模型，直击AI市场格局。",
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-08-17T22:42:13.059Z",
     "fetchedAt": null,
     "tier": 2
@@ -35975,7 +35975,7 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-08-17T22:42:13.059Z",
     "fetchedAt": null,
     "tier": 2
@@ -36429,7 +36429,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-08-17T22:42:13.059Z",
     "fetchedAt": null,
     "tier": 2
@@ -38124,7 +38124,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": "记忆配置决定智能体性能，合理规划才能避免资源浪费。",
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-18T22:42:28.007Z",
     "fetchedAt": null,
     "tier": 1
@@ -38264,7 +38264,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": "数据规模越大，AI创作越难溯源，版权追责面临新挑战。",
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-18T22:42:28.007Z",
     "fetchedAt": null,
     "tier": 1
@@ -39232,7 +39232,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-18T22:42:28.007Z",
     "fetchedAt": null,
     "tier": 1
@@ -39435,7 +39435,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-18T22:42:28.007Z",
     "fetchedAt": null,
     "tier": 1
@@ -40299,12 +40299,12 @@
       "coding-agent",
       "JavaScript"
     ],
-    "engagement": 138,
+    "engagement": 142,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-08-18T22:42:28.007Z",
     "fetchedAt": null,
     "tier": 2
@@ -46093,7 +46093,7 @@
       "codex",
       "Python"
     ],
-    "engagement": 240,
+    "engagement": 247,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -46706,7 +46706,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": "生成式AI加持可穿戴数据，直击生物标志物筛选痛点，或加速精准医疗落地。",
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-21T22:42:23.609Z",
     "fetchedAt": null,
     "tier": 1
@@ -49185,7 +49185,7 @@
     "aiSelected": true,
     "origin": "rss:raschka",
     "aiNote": "视频详解AI文本水印机制，直击内容溯源与反作弊核心，实用价值高。",
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-08-22T22:39:14.253Z",
     "fetchedAt": null,
     "tier": 2
@@ -49287,7 +49287,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": "模拟技术以千倍成本优势颠覆传统训练，效率飞跃或重塑AI研发范式。",
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-08-22T22:39:14.253Z",
     "fetchedAt": null,
     "tier": 2
@@ -49304,7 +49304,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": "模型与工具的边界正在消融，未来焦点转向人类注意力，预示AI交互范式根本转变。",
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-08-22T22:39:14.253Z",
     "fetchedAt": null,
     "tier": 2
@@ -50366,7 +50366,7 @@
       "codex-cli",
       "Python"
     ],
-    "engagement": 278,
+    "engagement": 293,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -50750,7 +50750,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": "让AI预演从未发生的极端事件，为关键设施和供应链补上防御盲区。",
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-08-24T22:45:17.219Z",
     "fetchedAt": null,
     "tier": 1
@@ -50835,7 +50835,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": "法国双雄联手，欧洲AI自主化再进一步。",
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-08-24T22:45:17.219Z",
     "fetchedAt": null,
     "tier": 1
@@ -51013,7 +51013,7 @@
     "aiSelected": true,
     "origin": "rss:nvidia",
     "aiNote": "XPU架构正重塑AI工厂的成本效率，从芯片到能耗全链优化，决定大模型落地的商业可行性。",
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-08-24T22:45:17.219Z",
     "fetchedAt": null,
     "tier": 1
@@ -51030,7 +51030,7 @@
     "aiSelected": true,
     "origin": "rss:nvidia",
     "aiNote": "从单芯片到全栈协同，NVIDIA正重新定义AI工厂推理效率，这是下一代智能体的关键跃迁。",
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-08-24T22:45:17.219Z",
     "fetchedAt": null,
     "tier": 1
@@ -51047,7 +51047,7 @@
     "aiSelected": true,
     "origin": "rss:nvidia",
     "aiNote": "算力效率跃升30倍，为智能体规模化落地铺路，定义下一代AI基础设施标杆。",
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-08-24T22:45:17.219Z",
     "fetchedAt": null,
     "tier": 1
@@ -52603,7 +52603,7 @@
       "desktop",
       "TypeScript"
     ],
-    "engagement": 348,
+    "engagement": 360,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -52650,12 +52650,12 @@
       "data-quality",
       "Python"
     ],
-    "engagement": 261,
+    "engagement": 262,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 27,
     "firstSeen": "2026-08-24T22:45:17.219Z",
     "fetchedAt": null,
     "tier": 2
@@ -53265,7 +53265,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": "端侧智能体落地，让AI真正随身而行，交互范式迎来新拐点。",
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-08-25T22:46:13.157Z",
     "fetchedAt": null,
     "tier": 2
@@ -53859,7 +53859,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-08-25T22:46:13.157Z",
     "fetchedAt": null,
     "tier": 1
@@ -55050,7 +55050,7 @@
       "cvss-v3",
       "Python"
     ],
-    "engagement": 775,
+    "engagement": 781,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55706,7 +55706,7 @@
     "aiSelected": true,
     "origin": "rss:nvidia",
     "aiNote": "NVLink融合NVHBM内存，直击万亿参数AI算力瓶颈，架构革新看点十足。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -55863,7 +55863,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": "连续血糖监测迎来专用基础模型，有望推动个体化健康管理革新。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -56364,7 +56364,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -57279,7 +57279,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -57381,7 +57381,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -57398,7 +57398,7 @@
     "aiSelected": true,
     "origin": "rss:techreview-ai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -57725,7 +57725,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -57912,12 +57912,12 @@
       "multimodal-llm",
       "Python"
     ],
-    "engagement": 1465,
+    "engagement": 1478,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -59492,7 +59492,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 2
@@ -59530,7 +59530,7 @@
     "aiSelected": true,
     "origin": "rss:anthropic",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 1
@@ -59976,7 +59976,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 2
@@ -61007,7 +61007,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 1
@@ -62046,7 +62046,7 @@
       "nextjs",
       "Python"
     ],
-    "engagement": 244,
+    "engagement": 251,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -62767,7 +62767,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-08-29T03:43:48.688Z",
     "fetchedAt": null,
     "tier": 2
@@ -62958,7 +62958,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-08-29T03:43:48.688Z",
     "fetchedAt": null,
     "tier": 2
@@ -64219,7 +64219,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 22,
+    "heat": 21,
     "firstSeen": "2026-08-30T00:21:42.857Z",
     "fetchedAt": null,
     "tier": 2
@@ -64307,7 +64307,7 @@
     "aiSelected": true,
     "origin": "rss:oneusefulthing",
     "aiNote": "AI代理的自主权与监管边界成焦点，事件揭示行业深层伦理挑战。",
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-08-31T00:38:00.034Z",
     "fetchedAt": null,
     "tier": 2
@@ -64734,7 +64734,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 2526,
+    "engagement": 2553,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64830,7 +64830,7 @@
       "desktop",
       "JavaScript"
     ],
-    "engagement": 1621,
+    "engagement": 1632,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64855,7 +64855,7 @@
       "ai-agent-framework",
       "Python"
     ],
-    "engagement": 159,
+    "engagement": 164,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
