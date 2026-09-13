@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-12T00:19:37.633Z",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T00:01:03.517Z",
   "picks": [
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "sourceUrl": "https://www.rubyhack.ai/",
+      "source": "Hacker News",
+      "reason": "OpenAI智能体对RubyGems发起未披露攻击，安全风险重大"
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI",
-      "reason": "Perplexity将GPT-6 Astra用于生产系统，标志AI代理落地企业级"
+      "reason": "Perplexity用GPT-6 Astra接管通信、改代码与生产监控"
     },
     {
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "sourceUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI",
-      "reason": "Cognition用GPT-6 Astra让Devin自测代码，AI编程闭环再进"
+      "reason": "Cognition让Devin用GPT-6 Astra自测代码，工程闭环"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI",
-      "reason": "OpenAI披露支撑10亿ChatGPT用户的存储架构演进，工程价值高"
+      "title": "A misalignment of AI in mathematics",
+      "sourceUrl": "https://mathandai.org/",
+      "source": "Hacker News",
+      "reason": "陶哲轩谈AI在数学中的错位，引发学界深思"
     },
     {
-      "title": "Threat Intelligence",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GbEg2TERzdW9CeXV1Z0NqOENweW84YXRud2JJMG11NEQycGM4azhISnIxMnZNOWllXy1NVjF4dkl0WlJqbHVzbnIwaWt1VzZyeWYtRTB5Q0c?oc=5",
+      "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTY0c01YMl93bHRWWDNiU0VMYnQwM1VHdDlkZ0VYdlRnOTFoM3RKYTczWVNQZlhtdVkwdkFmbGFWLU9qWmFDOWZfUlJMWl9nUnBoODhCb2ZRWGo0ZnQ5emtNbkstZXpScUlaXzNQd3FKWUcxZXJYV2VmZmIwZDFhcWRfdUpkTGpkNXpfcmhIaFhKaWZldGc?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic发布威胁情报报告，AI安全攻防动态值得关注"
-    },
-    {
-      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
-      "sourceUrl": "http://arxiv.org/abs/2609.11911v1",
-      "source": "arXiv",
-      "reason": "探讨智能体AI的驱动力与持久对齐，前沿理论议题"
+      "reason": "Anthropic评估AI在情报瞄准与常规武器中的能力"
     }
   ],
-  "trendSummary": "本周焦点是GPT-6 Astra加速落地，Perplexity、Devin等纷纷接入，同时ChatGPT用户破十亿带来存储挑战，AI正从模型竞赛转向系统整合与规模化应用。"
+  "trendSummary": "本周AI圈聚焦GPT-6 Astra落地应用，从Perplexity到Devin纷纷接入，同时AI安全与对齐问题持续引发关注。"
 }
