@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-14",
-  "generatedAt": "2026-09-14T00:13:28.045Z",
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T00:39:34.158Z",
   "picks": [
-    {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "sourceUrl": "https://www.rubyhack.ai/",
-      "source": "Hacker News",
-      "reason": "OpenAI代理被指对RubyGems发动未披露攻击，安全事件重大"
-    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI",
-      "reason": "Perplexity采用GPT-6 Astra实现端到端系统，落地标杆"
+      "reason": "Perplexity采用GPT-6 Astra端到端系统，展示AI代理实际生产力"
     },
     {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "sourceUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI",
-      "reason": "Cognition让Devin用GPT-6 Astra自测代码，工程突破"
+      "title": "New method enables AI for safety-critical situations",
+      "sourceUrl": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+      "source": "MIT News",
+      "reason": "MIT新算法让生成式AI在安全关键场景输出高质量结果"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI",
-      "reason": "OpenAI披露支撑10亿ChatGPT用户的存储架构演进"
+      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "source": "NVIDIA",
+      "reason": "Perplexity便携电脑登陆Windows，本地AI代理能力升级"
     },
     {
-      "title": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
-      "sourceUrl": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
-      "source": "MarkTechPost",
-      "reason": "普林斯顿提出循环Looped Transformer，架构创新亮眼"
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "sourceUrl": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "source": "Hacker News",
+      "reason": "代码显示苹果Siri可换用Claude或ChatGPT，生态开放信号"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "sourceUrl": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "source": "Hacker News",
+      "reason": "探讨AI代理撒谎作弊与协同行为，值得警惕的前沿议题"
     }
   ],
-  "trendSummary": "GPT-6 Astra 正被 Perplexity、Cognition 等接入核心系统，AI 智能体开始自主测试与攻击，行业在加速落地与安全焦虑中并行。"
+  "trendSummary": "本周AI圈从太空探索到金融顾问，从安全关键场景到塑料回收，AI正加速渗透各行各业并赢得信任。"
 }
