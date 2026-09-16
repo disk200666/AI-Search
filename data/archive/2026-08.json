@@ -5783,7 +5783,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-08-04T23:18:58.747Z",
     "fetchedAt": null,
     "tier": 2
@@ -11865,7 +11865,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-08-07T01:33:58.898Z",
     "fetchedAt": null,
     "tier": 2
@@ -19620,7 +19620,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-08-10T22:57:01.923Z",
     "fetchedAt": null,
     "tier": 2
@@ -19637,7 +19637,7 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-08-10T22:57:01.923Z",
     "fetchedAt": null,
     "tier": 2
@@ -25659,7 +25659,7 @@
     "origin": "hackernews",
     "aiNote": "开源大模型竞争白热化，后发者能否撼动头部格局值得紧盯。",
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
     "tier": 2
@@ -27991,7 +27991,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 22,
+    "heat": 21,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
     "tier": 2
@@ -28511,7 +28511,7 @@
     "origin": "hackernews",
     "aiNote": "轻量模型迭代加速，性能与成本平衡或成开发者新宠。",
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2
@@ -29091,7 +29091,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 23,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2
@@ -34164,7 +34164,7 @@
     "origin": "hackernews",
     "aiNote": "终端级深度研究代理，直击成本失控与答案可信度痛点，为高效研究提供新解法。",
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-08-15T22:38:48.662Z",
     "fetchedAt": null,
     "tier": 2
@@ -47546,7 +47546,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-08-21T22:42:23.609Z",
     "fetchedAt": null,
     "tier": 2
@@ -50366,7 +50366,7 @@
       "codex-cli",
       "Python"
     ],
-    "engagement": 301,
+    "engagement": 293,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -52603,7 +52603,7 @@
       "desktop",
       "TypeScript"
     ],
-    "engagement": 370,
+    "engagement": 377,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -52650,7 +52650,7 @@
       "data-quality",
       "Python"
     ],
-    "engagement": 268,
+    "engagement": 269,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -53062,7 +53062,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": "搜索工具跨界家居，AI驱动的灵感发现新玩法。",
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-25T22:46:13.157Z",
     "fetchedAt": null,
     "tier": 1
@@ -53121,7 +53121,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": "看点在其技术架构揭秘，展示新一代大模型的构建细节，对开发者有直接参考价值。",
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-25T22:46:13.157Z",
     "fetchedAt": null,
     "tier": 1
@@ -55050,7 +55050,7 @@
       "cvss-v3",
       "Python"
     ],
-    "engagement": 803,
+    "engagement": 826,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55515,7 +55515,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": "开源生态再洗牌，英伟达重金收购HuggingFace，OpenAI自曝事故，行业格局生变。",
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -55570,7 +55570,7 @@
     "aiSelected": true,
     "origin": "rss:latentspace",
     "aiNote": "芯片巨头竞逐AI算力，新品密集发布揭示行业竞争白热化。",
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -57279,7 +57279,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -57381,7 +57381,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -57657,7 +57657,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -57674,7 +57674,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -57691,7 +57691,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -57912,12 +57912,12 @@
       "multimodal-llm",
       "Python"
     ],
-    "engagement": 1579,
+    "engagement": 1592,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 2
@@ -59212,7 +59212,7 @@
     "origin": "hackernews",
     "aiNote": "开源模型网关用Rust实现高并发，统一管理自托管与前沿模型，直击AI部署碎片化痛点。",
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 2
@@ -59492,7 +59492,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 2
@@ -59976,7 +59976,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 2
@@ -61024,7 +61024,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 2
@@ -62046,7 +62046,7 @@
       "nextjs",
       "Python"
     ],
-    "engagement": 278,
+    "engagement": 273,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64734,12 +64734,12 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 2607,
+    "engagement": 2623,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-08-31T00:38:00.034Z",
     "fetchedAt": null,
     "tier": 2

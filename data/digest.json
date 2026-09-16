@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-15",
-  "generatedAt": "2026-09-15T00:39:34.158Z",
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T00:22:08.785Z",
   "picks": [
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI",
-      "reason": "Perplexity采用GPT-6 Astra端到端系统，展示AI代理实际生产力"
+      "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection",
+      "sourceUrl": "http://arxiv.org/abs/2609.15989v1",
+      "source": "arXiv",
+      "reason": "揭示CoT监控可被绕过，对AI安全治理有重要警示意义"
     },
     {
-      "title": "New method enables AI for safety-critical situations",
-      "sourceUrl": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
-      "source": "MIT News",
-      "reason": "MIT新算法让生成式AI在安全关键场景输出高质量结果"
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "HuggingFace Blog",
+      "reason": "智能体任务复现性评测，直击Agent落地可靠性痛点"
     },
     {
-      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "sourceUrl": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
       "source": "NVIDIA",
-      "reason": "Perplexity便携电脑登陆Windows，本地AI代理能力升级"
+      "reason": "英伟达AI工厂能效优化，算力经济性核心议题"
     },
     {
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "sourceUrl": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "source": "Hacker News",
-      "reason": "代码显示苹果Siri可换用Claude或ChatGPT，生态开放信号"
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source": "Google AI",
+      "reason": "谷歌AI与经济ATLAS数据洞察，宏观趋势参考价值高"
     },
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "sourceUrl": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "source": "Hacker News",
-      "reason": "探讨AI代理撒谎作弊与协同行为，值得警惕的前沿议题"
+      "title": "Bellman Policy Optimization",
+      "sourceUrl": "http://arxiv.org/abs/2609.15987v1",
+      "source": "arXiv",
+      "reason": "Bellman策略优化新方法，强化学习推理前沿进展"
     }
   ],
-  "trendSummary": "本周AI圈从太空探索到金融顾问，从安全关键场景到塑料回收，AI正加速渗透各行各业并赢得信任。"
+  "trendSummary": "本周AI圈聚焦算力能效与基础设施升级，同时加速向医疗、科研和普惠多语言场景落地。"
 }
