@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-18",
-  "generatedAt": "2026-09-18T00:20:56.370Z",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T00:22:07.684Z",
   "picks": [
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
       "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
       "source": "Anthropic",
-      "reason": "前沿实验室AI发展节奏的量化测量，行业风向标"
+      "reason": "前沿实验室内部AI发展速度测量，关乎行业节奏判断"
     },
     {
-      "title": "Introducing Astra for Law",
-      "sourceUrl": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI",
-      "reason": "OpenAI推出法律专用产品，垂直行业落地重要信号"
+      "title": "Inside Claude for Financial Advisors",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sOGpwSU80bnNqZUI3ZEdjWk9xQkV5Mi1oX09uVzR5QmVrd2R1c0M1UWxMdFRUc0U1RExVbWJ1UldieEh0RU0yaWM3MDNaazRuUFFRQm5VR096VmE1SmJGSVdXZ2hXd3NDbk96OHh6VDc2aE1UMHBlV2RBZw?oc=5",
+      "source": "Anthropic",
+      "reason": "Claude进军金融顾问场景，垂直行业落地值得关注"
     },
     {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "sourceUrl": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI",
-      "reason": "ChatGPT助力IPO流程，金融场景商业化典型案例"
+      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "sourceUrl": "http://arxiv.org/abs/2609.20812v1",
+      "source": "arXiv",
+      "reason": "量化前沿LLM智能体过度宣称倾向，关乎AI可信度"
     },
     {
-      "title": "Making global data easier to explore",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI",
-      "reason": "谷歌与联合国共建数据开放平台，公共数据里程碑"
+      "title": "How Claude is uplifting biomolecular modeling",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PbzNJUlpWVXZ6VzVsNU13YVBoQUNmTDNEUG83cTFoZk1oU0ZQMFJCWFhqNTFZSGVZWkg3RjBRNktiaXZjd1ZoNTRLM3NpS2V4a3lVUXRJVXFDbXVwRmhfdDlPSy04ZVBzUHB3aHFEUjRtcHVzd0dvN0NYMA?oc=5",
+      "source": "Anthropic",
+      "reason": "Claude助力生物分子建模，AI4Science又一实证"
     },
     {
-      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-      "sourceUrl": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-      "source": "Google Research",
-      "reason": "生成式UI赋能教师，教育AI应用值得关注"
+      "title": "Download Muse: Free AI Agent for Mac & Mobile",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03S2NBOWpNX3hQa054SVRZY2thNkxpaWxkdUNjcXp2Q3VuZm9HMzZJMGJUdkJGM0hUWlE2dUJjSG9NbVZ5ajBzTTN3?oc=5",
+      "source": "Meta AI",
+      "reason": "Meta推出免费AI智能体Muse，消费级入口新动作"
     }
   ],
-  "trendSummary": "本周AI正加速向金融、法律、生物医药等专业领域纵深落地，同时前沿实验室开始关注发展节奏的量化评估。"
+  "trendSummary": "本周AI圈更聚焦落地与评估，从金融顾问到教育、时尚，企业合作与专业团队扩张并行，同时前沿实验室加速探索发展节奏与交互新形态。"
 }
