@@ -5618,7 +5618,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-08-04T23:18:58.747Z",
     "fetchedAt": null,
     "tier": 1
@@ -14558,7 +14558,7 @@
     "origin": "hackernews",
     "aiNote": "推理速度与成本再突破，模型迭代加速，AI应用门槛持续降低。",
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-08-07T22:56:01.343Z",
     "fetchedAt": null,
     "tier": 2
@@ -19175,7 +19175,7 @@
     "origin": "hackernews",
     "aiNote": "14MB级端侧智能体，开启手机手表家居机器人的本地AI新纪元。",
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-08-10T22:57:01.923Z",
     "fetchedAt": null,
     "tier": 2
@@ -29070,7 +29070,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 30,
+    "heat": 29,
     "firstSeen": "2026-08-13T23:04:07.240Z",
     "fetchedAt": null,
     "tier": 2
@@ -31652,7 +31652,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": "个人智能体定义成焦点，预示交互范式革新，值得追踪。",
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-08-14T22:41:58.336Z",
     "fetchedAt": null,
     "tier": 2
@@ -44426,7 +44426,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": "新工艺有望摆脱化石燃料，对化肥生产减碳意义重大。",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-20T22:46:44.042Z",
     "fetchedAt": null,
     "tier": 1
@@ -44528,7 +44528,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": "显存占用减半，推理提速3.2倍，性能与成本双突破，值得部署实测。",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-20T22:46:44.042Z",
     "fetchedAt": null,
     "tier": 1
@@ -44952,7 +44952,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-20T22:46:44.042Z",
     "fetchedAt": null,
     "tier": 1
@@ -53265,7 +53265,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": "端侧智能体落地，让AI真正随身而行，交互范式迎来新拐点。",
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-08-25T22:46:13.157Z",
     "fetchedAt": null,
     "tier": 2
@@ -53893,7 +53893,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-08-25T22:46:13.157Z",
     "fetchedAt": null,
     "tier": 2
@@ -55863,7 +55863,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": "连续血糖监测迎来专用基础模型，有望推动个体化健康管理革新。",
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -56364,7 +56364,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -57381,7 +57381,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -57657,7 +57657,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-08-27T03:19:48.721Z",
     "fetchedAt": null,
     "tier": 1
@@ -57912,7 +57912,7 @@
       "multimodal-llm",
       "Python"
     ],
-    "engagement": 1614,
+    "engagement": 1621,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -59492,7 +59492,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 2
@@ -64219,7 +64219,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-08-30T00:21:42.857Z",
     "fetchedAt": null,
     "tier": 2
@@ -64307,7 +64307,7 @@
     "aiSelected": true,
     "origin": "rss:oneusefulthing",
     "aiNote": "AI代理的自主权与监管边界成焦点，事件揭示行业深层伦理挑战。",
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-08-31T00:38:00.034Z",
     "fetchedAt": null,
     "tier": 2
@@ -64734,7 +64734,7 @@
       "claude-code",
       "Python"
     ],
-    "engagement": 2681,
+    "engagement": 2689,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,

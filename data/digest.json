@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-19",
-  "generatedAt": "2026-09-19T00:22:07.684Z",
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T00:09:47.326Z",
   "picks": [
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
       "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
       "source": "Anthropic",
-      "reason": "前沿实验室内部AI发展速度测量，关乎行业节奏判断"
-    },
-    {
-      "title": "Inside Claude for Financial Advisors",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sOGpwSU80bnNqZUI3ZEdjWk9xQkV5Mi1oX09uVzR5QmVrd2R1c0M1UWxMdFRUc0U1RExVbWJ1UldieEh0RU0yaWM3MDNaazRuUFFRQm5VR096VmE1SmJGSVdXZ2hXd3NDbk96OHh6VDc2aE1UMHBlV2RBZw?oc=5",
-      "source": "Anthropic",
-      "reason": "Claude进军金融顾问场景，垂直行业落地值得关注"
-    },
-    {
-      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
-      "sourceUrl": "http://arxiv.org/abs/2609.20812v1",
-      "source": "arXiv",
-      "reason": "量化前沿LLM智能体过度宣称倾向，关乎AI可信度"
+      "reason": "Anthropic官方解读前沿实验室AI发展节奏的衡量方法"
     },
     {
       "title": "How Claude is uplifting biomolecular modeling",
       "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PbzNJUlpWVXZ6VzVsNU13YVBoQUNmTDNEUG83cTFoZk1oU0ZQMFJCWFhqNTFZSGVZWkg3RjBRNktiaXZjd1ZoNTRLM3NpS2V4a3lVUXRJVXFDbXVwRmhfdDlPSy04ZVBzUHB3aHFEUjRtcHVzd0dvN0NYMA?oc=5",
       "source": "Anthropic",
-      "reason": "Claude助力生物分子建模，AI4Science又一实证"
+      "reason": "Claude助力生物分子建模，AI4Science重要落地案例"
     },
     {
-      "title": "Download Muse: Free AI Agent for Mac & Mobile",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03S2NBOWpNX3hQa054SVRZY2thNkxpaWxkdUNjcXp2Q3VuZm9HMzZJMGJUdkJGM0hUWlE2dUJjSG9NbVZ5ajBzTTN3?oc=5",
-      "source": "Meta AI",
-      "reason": "Meta推出免费AI智能体Muse，消费级入口新动作"
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "sourceUrl": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI",
+      "reason": "OpenAI发布澳洲青年安全蓝图，AI治理风向标"
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI",
+      "reason": "Google扩充AI与经济团队，学界大咖加盟"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "sourceUrl": "https://code.claude.com/docs/en/changelog",
+      "source": "Hacker News",
+      "reason": "Claude Code支持AGENTS.md，开发者实用更新"
     }
   ],
-  "trendSummary": "本周AI圈更聚焦落地与评估，从金融顾问到教育、时尚，企业合作与专业团队扩张并行，同时前沿实验室加速探索发展节奏与交互新形态。"
+  "trendSummary": "本周AI圈聚焦前沿实验室发展节奏、模型评估与安全，同时加速向金融、时尚等行业渗透落地。"
 }
