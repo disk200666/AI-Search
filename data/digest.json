@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-20",
-  "generatedAt": "2026-09-20T00:09:47.326Z",
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T00:17:23.368Z",
   "picks": [
+    {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "sourceUrl": "https://www.hacktron.ai/blog/hacking-openai",
+      "source": "Hacker News",
+      "reason": "OpenAI内部仓库遭堆溢出与SSO漏洞攻破，安全事件重大"
+    },
+    {
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "sourceUrl": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "source": "Hacker News",
+      "reason": "ChatGPT借广告采集器获取用户跨站浏览数据，隐私争议大"
+    },
+    {
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "sourceUrl": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "source": "Hacker News",
+      "reason": "GLM编程代理ZCode被曝静默上传Git历史，开发者需警惕"
+    },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
       "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic官方解读前沿实验室AI发展节奏的衡量方法"
+      "reason": "Anthropic提出衡量前沿实验室AI发展节奏的方法，具参考价值"
     },
     {
-      "title": "How Claude is uplifting biomolecular modeling",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PbzNJUlpWVXZ6VzVsNU13YVBoQUNmTDNEUG83cTFoZk1oU0ZQMFJCWFhqNTFZSGVZWkg3RjBRNktiaXZjd1ZoNTRLM3NpS2V4a3lVUXRJVXFDbXVwRmhfdDlPSy04ZVBzUHB3aHFEUjRtcHVzd0dvN0NYMA?oc=5",
-      "source": "Anthropic",
-      "reason": "Claude助力生物分子建模，AI4Science重要落地案例"
-    },
-    {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "sourceUrl": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI",
-      "reason": "OpenAI发布澳洲青年安全蓝图，AI治理风向标"
-    },
-    {
-      "title": "New experts join Google’s AI & Economy team",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google AI",
-      "reason": "Google扩充AI与经济团队，学界大咖加盟"
-    },
-    {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "sourceUrl": "https://code.claude.com/docs/en/changelog",
+      "title": "Qwen Image 2.1",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
       "source": "Hacker News",
-      "reason": "Claude Code支持AGENTS.md，开发者实用更新"
+      "reason": "Qwen Image 2.1发布，开源图像模型新进展值得关注"
     }
   ],
-  "trendSummary": "本周AI圈聚焦前沿实验室发展节奏、模型评估与安全，同时加速向金融、时尚等行业渗透落地。"
+  "trendSummary": "本周AI圈聚焦模型落地与生态合作，从金融顾问到时尚设计，同时隐私与安全议题持续升温。"
 }
