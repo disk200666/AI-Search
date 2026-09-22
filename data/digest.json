@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-21",
-  "generatedAt": "2026-09-21T00:17:23.368Z",
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T00:51:19.191Z",
   "picks": [
     {
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "sourceUrl": "https://www.hacktron.ai/blog/hacking-openai",
-      "source": "Hacker News",
-      "reason": "OpenAI内部仓库遭堆溢出与SSO漏洞攻破，安全事件重大"
-    },
-    {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "sourceUrl": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "source": "Hacker News",
-      "reason": "ChatGPT借广告采集器获取用户跨站浏览数据，隐私争议大"
-    },
-    {
-      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "sourceUrl": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "source": "Hacker News",
-      "reason": "GLM编程代理ZCode被曝静默上传Git历史，开发者需警惕"
+      "title": "Building standards for the next phase of AI",
+      "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI",
+      "reason": "OpenAI呼吁全球AI标准协调，影响行业格局"
     },
     {
       "title": "Measurements for understanding the pace of AI development inside frontier labs",
       "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic提出衡量前沿实验室AI发展节奏的方法，具参考价值"
+      "reason": "Anthropic揭示前沿实验室AI发展速度的度量方法"
     },
     {
-      "title": "Qwen Image 2.1",
-      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "sourceUrl": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
       "source": "Hacker News",
-      "reason": "Qwen Image 2.1发布，开源图像模型新进展值得关注"
+      "reason": "ChatGPT通过广告收集器获取用户跨站行为，隐私争议大"
+    },
+    {
+      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "source": "NVIDIA",
+      "reason": "AI安全是工程问题，代理栈各层解决方案值得关注"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "sourceUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI",
+      "reason": "GPT-6 Astra助力视频广告快速落地，应用案例亮眼"
     }
   ],
-  "trendSummary": "本周AI圈聚焦模型落地与生态合作，从金融顾问到时尚设计，同时隐私与安全议题持续升温。"
+  "trendSummary": "本周AI圈从模型能力竞赛转向落地与治理，安全、标准、算力基建和行业应用成为焦点。"
 }
