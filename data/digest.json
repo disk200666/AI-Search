@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-22T00:51:19.191Z",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T00:34:50.265Z",
   "picks": [
     {
-      "title": "Building standards for the next phase of AI",
-      "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "source": "OpenAI",
-      "reason": "OpenAI呼吁全球AI标准协调，影响行业格局"
+      "reason": "OpenAI发布GPT-6双模型，前沿智能落地日常，头条级"
     },
     {
-      "title": "Measurements for understanding the pace of AI development inside frontier labs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "title": "Introducing Claude Opus 5.5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic揭示前沿实验室AI发展速度的度量方法"
+      "reason": "Anthropic推出Claude Opus 5.5，头部模型竞逐焦点"
     },
     {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "sourceUrl": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "source": "Hacker News",
-      "reason": "ChatGPT通过广告收集器获取用户跨站行为，隐私争议大"
+      "title": "Claude Opus 5.5 System Card",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb09VaFJnT2xidDdXWDJNRnY5eEdHZE9HeDNqQzZfZ09ybTBRVzQzRl9fd0NpZ1RTdzUxNDFKcDU4ZlduUlBpdnBLQThhWGZKSWtJNVRhV0VhZERVRTBjZjlfWE1NVXVQUWJYR1hqTF9wWnV2Z0lweEVpeUdpYWtSc3JDYUVnNTRhaklDMVpYbzlOUURrX2EtSmhuX1ZESFM4TE1TckJoSTN0RDhkVXBZ?oc=5",
+      "source": "Anthropic",
+      "reason": "Opus 5.5系统卡，安全评估细节值得深读"
     },
     {
-      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-      "source": "NVIDIA",
-      "reason": "AI安全是工程问题，代理栈各层解决方案值得关注"
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "sourceUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "title": "Better prompt caching for GPT-6",
+      "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "source": "OpenAI",
-      "reason": "GPT-6 Astra助力视频广告快速落地，应用案例亮眼"
+      "reason": "GPT-6提示缓存优化，开发者实用更新"
+    },
+    {
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "sourceUrl": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "source": "NVIDIA",
+      "reason": "NVIDIA Isaac ROS 5.0推动智能体机器人开发"
     }
   ],
-  "trendSummary": "本周AI圈从模型能力竞赛转向落地与治理，安全、标准、算力基建和行业应用成为焦点。"
+  "trendSummary": "本周GPT-6与Claude新旗舰接连登场，模型迭代加速，配套的评测、缓存与安全评估也在同步跟进。"
 }
