@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-24",
-  "generatedAt": "2026-09-24T00:31:17.024Z",
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T00:34:08.247Z",
   "picks": [
+    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "reason": "Gemini 3.8 Live 加实时虚拟形象，多模态交互重大升级"
+    },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
       "source": "Anthropic",
-      "reason": "Claude发现类CRISPR新型酶系统，AI驱动科学发现重大突破"
+      "reason": "Claude 发现类 CRISPR 新酶系统，AI 驱动科研里程碑"
     },
     {
-      "title": "Autonomous AI agents discover reverse transcriptases with tandem repeat arrays",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10cjdNSUdBZFU1c0lEOHJ4N3FRZ0gtMFBPNXllaENuTlQyWGN6enpnLVdzWkNwVjVQMzdWX2p6VXgyamhOeDF0SW1oRVcxZlUycm41NjM1ZXFXbGtDa1JONW4xbXljd0lLaFZmU0M2ZkIxY01MMXNFSDFWRzBDUDQ?oc=5",
+      "title": "Opus 5.5 for Work",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dWwwdEZIOXRVaHBSM09MYy1ZMk5TQ1RsUzFxem8wQTQwMGdvVmxHTFd4NTN5ODhTUVdLSi1ObUx1WjJ0aTA5ZU1lNHZEeWlBSkliTkoxTjY2czRzaFprVGpB?oc=5",
       "source": "Anthropic",
-      "reason": "自主AI智能体发现逆转录酶，展示AI独立科研能力"
+      "reason": "Opus 5.5 面向工作场景，企业级能力值得关注"
     },
     {
-      "title": "Measurements for understanding the pace of AI development inside frontier labs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic提出衡量前沿实验室AI发展速度的方法论"
+      "title": "Automating coherent long-form video generation",
+      "sourceUrl": "https://research.google/blog/coherent-long-form-video-generation/",
+      "source": "Google Research",
+      "reason": "自动化长视频生成，内容创作效率有望突破"
     },
     {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "sourceUrl": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "source": "Google DeepMind",
-      "reason": "DeepMind推进私有AI计算，服务端安全内存新进展"
-    },
-    {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "sourceUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "reason": "Altman在联合国安理会谈AI安全与国际合作"
+      "title": "Estimating suicide risk from text",
+      "sourceUrl": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+      "source": "MIT News",
+      "reason": "文本估算自杀风险，AI 心理健康应用具社会价值"
     }
   ],
-  "trendSummary": "本周AI圈聚焦智能体自主科研突破与机器人仿真加速，同时大模型持续向语音、隐私计算等实用场景落地。"
+  "trendSummary": "本周AI圈聚焦多模态与智能体落地，从视频生成、实时虚拟形象到智能体交易，同时关注AI安全与前沿发展节奏。"
 }
