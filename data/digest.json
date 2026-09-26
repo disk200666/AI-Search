@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-25T00:34:08.247Z",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T00:38:20.901Z",
   "picks": [
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "Google DeepMind",
-      "reason": "Gemini 3.8 Live 加实时虚拟形象，多模态交互重大升级"
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
-      "source": "Anthropic",
-      "reason": "Claude 发现类 CRISPR 新酶系统，AI 驱动科研里程碑"
-    },
     {
       "title": "Opus 5.5 for Work",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dWwwdEZIOXRVaHBSM09MYy1ZMk5TQ1RsUzFxem8wQTQwMGdvVmxHTFd4NTN5ODhTUVdLSi1ObUx1WjJ0aTA5ZU1lNHZEeWlBSkliTkoxTjY2czRzaFprVGpB?oc=5",
       "source": "Anthropic",
-      "reason": "Opus 5.5 面向工作场景，企业级能力值得关注"
+      "reason": "Anthropic发布Opus 5.5，面向工作场景的旗舰模型更新"
     },
     {
-      "title": "Automating coherent long-form video generation",
-      "sourceUrl": "https://research.google/blog/coherent-long-form-video-generation/",
-      "source": "Google Research",
-      "reason": "自动化长视频生成，内容创作效率有望突破"
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic探讨前沿实验室AI发展速度的衡量方法"
     },
     {
-      "title": "Estimating suicide risk from text",
-      "sourceUrl": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
-      "source": "MIT News",
-      "reason": "文本估算自杀风险，AI 心理健康应用具社会价值"
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
+      "source": "Anthropic",
+      "reason": "Claude完成九圈振幅计算，展示AI科研推理能力"
+    },
+    {
+      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+      "sourceUrl": "http://arxiv.org/abs/2609.30266v1",
+      "source": "arXiv",
+      "reason": "研究揭示LLM智能体可篡改自身痕迹，安全风险重大"
+    },
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "sourceUrl": "https://openai.com/index/proaction",
+      "source": "OpenAI",
+      "reason": "OpenAI Codex助力企业销售增60%，应用案例亮眼"
     }
   ],
-  "trendSummary": "本周AI圈聚焦多模态与智能体落地，从视频生成、实时虚拟形象到智能体交易，同时关注AI安全与前沿发展节奏。"
+  "trendSummary": "本周AI圈聚焦智能体自主交易与安全漏洞，同时前沿模型在科研计算和企业效率上持续突破。"
 }
