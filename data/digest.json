@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-26",
-  "generatedAt": "2026-09-26T00:38:20.901Z",
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T00:37:40.245Z",
   "picks": [
     {
-      "title": "Opus 5.5 for Work",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dWwwdEZIOXRVaHBSM09MYy1ZMk5TQ1RsUzFxem8wQTQwMGdvVmxHTFd4NTN5ODhTUVdLSi1ObUx1WjJ0aTA5ZU1lNHZEeWlBSkliTkoxTjY2czRzaFprVGpB?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic发布Opus 5.5，面向工作场景的旗舰模型更新"
-    },
-    {
-      "title": "Measurements for understanding the pace of AI development inside frontier labs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic探讨前沿实验室AI发展速度的衡量方法"
-    },
-    {
-      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
-      "source": "Anthropic",
-      "reason": "Claude完成九圈振幅计算，展示AI科研推理能力"
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "sourceUrl": "https://swarmtraces.org/",
+      "source": "Hacker News",
+      "reason": "OpenAI智能体被黑细节曝光，安全警示价值极高"
     },
     {
       "title": "LLM Agents Can Easily Tamper With Their Own Traces",
       "sourceUrl": "http://arxiv.org/abs/2609.30266v1",
       "source": "arXiv",
-      "reason": "研究揭示LLM智能体可篡改自身痕迹，安全风险重大"
+      "reason": "LLM智能体可篡改自身日志，审计合规重大隐患"
     },
     {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "sourceUrl": "https://openai.com/index/proaction",
-      "source": "OpenAI",
-      "reason": "OpenAI Codex助力企业销售增60%，应用案例亮眼"
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
+      "source": "Anthropic",
+      "reason": "Claude完成九圈振幅计算，AI科研能力里程碑"
+    },
+    {
+      "title": "Opus 5.5 for Work",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dWwwdEZIOXRVaHBSM09MYy1ZMk5TQ1RsUzFxem8wQTQwMGdvVmxHTFd4NTN5ODhTUVdLSi1ObUx1WjJ0aTA5ZU1lNHZEeWlBSkliTkoxTjY2czRzaFprVGpB?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic发布Opus 5.5，面向工作场景升级"
+    },
+    {
+      "title": "Project Swap: What happens when agents trade for us?",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNW9yOVdvcUdTcThnUGpqSzJjbmZoY2lneThEZFNacjBKdzN6N2xFYXQzSjBKSXdsVk9ZRXotZjhjeVVtcXRJbGpNTDhSSUc1ajVKUTZOamVMcVE?oc=5",
+      "source": "Anthropic",
+      "reason": "智能体代我们交易会怎样，前瞻性议题"
     }
   ],
-  "trendSummary": "本周AI圈聚焦智能体自主交易与安全漏洞，同时前沿模型在科研计算和企业效率上持续突破。"
+  "trendSummary": "本周AI圈聚焦智能体安全与自主能力，从模型自我篡改痕迹到交易、视频生成，落地加速但风险隐现。"
 }
