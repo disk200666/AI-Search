@@ -1,37 +1,37 @@
 {
-  "date": "2026-09-27",
-  "generatedAt": "2026-09-27T00:37:40.245Z",
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T00:48:00.397Z",
   "picks": [
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "sourceUrl": "https://swarmtraces.org/",
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "sourceUrl": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
       "source": "Hacker News",
-      "reason": "OpenAI智能体被黑细节曝光，安全警示价值极高"
+      "reason": "作家诉微软OpenAI案文件解封，版权诉讼关键进展"
     },
     {
-      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
-      "sourceUrl": "http://arxiv.org/abs/2609.30266v1",
-      "source": "arXiv",
-      "reason": "LLM智能体可篡改自身日志，审计合规重大隐患"
-    },
-    {
-      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
-      "source": "Anthropic",
-      "reason": "Claude完成九圈振幅计算，AI科研能力里程碑"
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch",
+      "reason": "Anthropic CEO首次与特朗普单独会面，政策风向标"
     },
     {
       "title": "Opus 5.5 for Work",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dWwwdEZIOXRVaHBSM09MYy1ZMk5TQ1RsUzFxem8wQTQwMGdvVmxHTFd4NTN5ODhTUVdLSi1ObUx1WjJ0aTA5ZU1lNHZEeWlBSkliTkoxTjY2czRzaFprVGpB?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic发布Opus 5.5，面向工作场景升级"
+      "reason": "Anthropic发布Opus 5.5企业版，主力模型升级"
     },
     {
-      "title": "Project Swap: What happens when agents trade for us?",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNW9yOVdvcUdTcThnUGpqSzJjbmZoY2lneThEZFNacjBKdzN6N2xFYXQzSjBKSXdsVk9ZRXotZjhjeVVtcXRJbGpNTDhSSUc1ajVKUTZOamVMcVE?oc=5",
-      "source": "Anthropic",
-      "reason": "智能体代我们交易会怎样，前瞻性议题"
+      "title": "Classified estimates show the NSA is paying billions to test AI models",
+      "sourceUrl": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "source": "Hacker News",
+      "reason": "NSA斥资数十亿测试AI模型，机密预算曝光"
+    },
+    {
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "source": "Hacker News",
+      "reason": "微软放弃个人AI聊天机器人，Copilot战略转向"
     }
   ],
-  "trendSummary": "本周AI圈聚焦智能体安全与自主能力，从模型自我篡改痕迹到交易、视频生成，落地加速但风险隐现。"
+  "trendSummary": "本周AI圈聚焦智能体安全与法律争议，同时模型能力向物理计算和商业落地加速渗透。"
 }

@@ -26087,7 +26087,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
     "tier": 1
@@ -26499,7 +26499,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-08-12T23:02:39.648Z",
     "fetchedAt": null,
     "tier": 1
@@ -49185,7 +49185,7 @@
     "aiSelected": true,
     "origin": "rss:raschka",
     "aiNote": "视频详解AI文本水印机制，直击内容溯源与反作弊核心，实用价值高。",
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-08-22T22:39:14.253Z",
     "fetchedAt": null,
     "tier": 2
@@ -49486,7 +49486,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 15,
+    "heat": 16,
     "firstSeen": "2026-08-22T22:39:14.253Z",
     "fetchedAt": null,
     "tier": 2
@@ -59212,7 +59212,7 @@
     "origin": "hackernews",
     "aiNote": "开源模型网关用Rust实现高并发，统一管理自托管与前沿模型，直击AI部署碎片化痛点。",
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 2
@@ -59976,7 +59976,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 28,
+    "heat": 27,
     "firstSeen": "2026-08-28T06:08:09.527Z",
     "fetchedAt": null,
     "tier": 2
@@ -63140,7 +63140,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-08-29T03:43:48.688Z",
     "fetchedAt": null,
     "tier": 1
