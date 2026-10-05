@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-04",
-  "generatedAt": "2026-10-04T00:38:45.833Z",
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T00:56:36.449Z",
   "picks": [
+    {
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "Hacker News",
+      "reason": "OpenAI安全负责人离职并警告公司文化破裂，行业重大人事震动"
+    },
     {
       "title": "A model guide for the GPT-6 family",
       "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
       "source": "OpenAI",
-      "reason": "GPT-6家族模型指南，开发者选型与调优必读"
-    },
-    {
-      "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "sourceUrl": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-      "source": "NVIDIA",
-      "reason": "英伟达GPU加速GPT-6 Astra，算力与模型协同关键"
-    },
-    {
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic亿元投入培养万名工程师，行业人才风向"
+      "reason": "OpenAI发布GPT-6系列模型指南，开发者必读的官方选型解析"
     },
     {
       "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
       "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "source": "NVIDIA",
-      "reason": "DGX Spark本地AI开发新硬件，边缘部署值得关注"
+      "reason": "英伟达DGX Spark 64GB发布，本地AI开发硬件迎来新选择"
     },
     {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "HuggingFace Blog",
-      "reason": "智能体自述完成却与数据库不符，可靠性警示"
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "sourceUrl": "https://github.com/Niko1221/Strata",
+      "source": "Hacker News",
+      "reason": "消费级RTX 4090跑125B大模型达100T/s，本地推理新突破"
+    },
+    {
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic投入1亿美元培训万名工程师，AI人才布局大手笔"
     }
   ],
-  "trendSummary": "本周AI圈一边加速落地智能体与本地算力，一边砸钱培养人才，同时开源模型和底层数学研究也没停。"
+  "trendSummary": "本周焦点在本地部署与开源模型提速，消费级硬件跑大模型成现实，同时AI智能体的可靠性问题开始引发关注。"
 }
