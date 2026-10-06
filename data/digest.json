@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-05",
-  "generatedAt": "2026-10-05T00:56:36.449Z",
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T02:18:32.029Z",
   "picks": [
     {
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "sourceUrl": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "sourceUrl": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "source": "Hacker News",
-      "reason": "OpenAI安全负责人离职并警告公司文化破裂，行业重大人事震动"
+      "reason": "Anthropic举报用户日记致重罪指控，AI隐私伦理重大争议"
     },
     {
-      "title": "A model guide for the GPT-6 family",
-      "sourceUrl": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI",
-      "reason": "OpenAI发布GPT-6系列模型指南，开发者必读的官方选型解析"
-    },
-    {
-      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
       "source": "NVIDIA",
-      "reason": "英伟达DGX Spark 64GB发布，本地AI开发硬件迎来新选择"
+      "reason": "英伟达AI助力乳腺癌诊疗，医疗应用价值突出"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI",
+      "reason": "OpenAI在ChatGPT推出广告，商业模式重大转变"
     },
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "sourceUrl": "https://github.com/Niko1221/Strata",
       "source": "Hacker News",
-      "reason": "消费级RTX 4090跑125B大模型达100T/s，本地推理新突破"
+      "reason": "消费级显卡跑125B大模型，本地部署里程碑"
     },
     {
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic投入1亿美元培训万名工程师，AI人才布局大手笔"
+      "title": "Our approach to EU text provenance rules",
+      "sourceUrl": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "reason": "OpenAI回应欧盟文本溯源规则，合规动向关键"
     }
   ],
-  "trendSummary": "本周焦点在本地部署与开源模型提速，消费级硬件跑大模型成现实，同时AI智能体的可靠性问题开始引发关注。"
+  "trendSummary": "欧盟内容溯源规则、AI医疗诊断、广告新形态与本地部署大模型成焦点，同时AI安全与伦理争议持续升温。"
 }
