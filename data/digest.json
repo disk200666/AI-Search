@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-06",
-  "generatedAt": "2026-10-06T02:18:32.029Z",
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T01:33:16.345Z",
   "picks": [
     {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "sourceUrl": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "Hacker News",
-      "reason": "Anthropic举报用户日记致重罪指控，AI隐私伦理重大争议"
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "sourceUrl": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "reason": "OpenAI与Atlassian合作，企业知识转化前沿模型落地"
     },
     {
-      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
+      "sourceUrl": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
+      "source": "MIT News",
+      "reason": "MIT发起全国STEM教育计划，影响深远"
+    },
+    {
+      "title": "Expanding the Cyber Verification Program",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic扩展网络验证计划，AI安全受关注"
+    },
+    {
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "sourceUrl": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
       "source": "NVIDIA",
-      "reason": "英伟达AI助力乳腺癌诊疗，医疗应用价值突出"
+      "reason": "电信运营商押注开源模型，AI战略新趋势"
     },
     {
-      "title": "Building advertising for the way people use AI",
-      "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI",
-      "reason": "OpenAI在ChatGPT推出广告，商业模式重大转变"
-    },
-    {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "sourceUrl": "https://github.com/Niko1221/Strata",
-      "source": "Hacker News",
-      "reason": "消费级显卡跑125B大模型，本地部署里程碑"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "sourceUrl": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI",
-      "reason": "OpenAI回应欧盟文本溯源规则，合规动向关键"
+      "title": "Supercomputing researchers document evolution of AI hardware",
+      "sourceUrl": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+      "source": "MIT News",
+      "reason": "MIT追踪AI硬件演进，把握算力发展脉络"
     }
   ],
-  "trendSummary": "欧盟内容溯源规则、AI医疗诊断、广告新形态与本地部署大模型成焦点，同时AI安全与伦理争议持续升温。"
+  "trendSummary": "本周AI圈在算力硬件、企业级合作与开放模型上持续升温，同时学界也在反思AI的失败与协作盲区。"
 }
