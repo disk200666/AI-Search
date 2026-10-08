@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-07T01:33:16.345Z",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T01:56:50.440Z",
   "picks": [
     {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "sourceUrl": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI",
-      "reason": "OpenAI与Atlassian合作，企业知识转化前沿模型落地"
-    },
-    {
-      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
-      "sourceUrl": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
-      "source": "MIT News",
-      "reason": "MIT发起全国STEM教育计划，影响深远"
-    },
-    {
-      "title": "Expanding the Cyber Verification Program",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic扩展网络验证计划，AI安全受关注"
-    },
-    {
-      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "sourceUrl": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
       "source": "NVIDIA",
-      "reason": "电信运营商押注开源模型，AI战略新趋势"
+      "reason": "英伟达与微软联手开启Windows PC的AI代理新时代，行业风向标"
     },
     {
-      "title": "Supercomputing researchers document evolution of AI hardware",
-      "sourceUrl": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
-      "source": "MIT News",
-      "reason": "MIT追踪AI硬件演进，把握算力发展脉络"
+      "title": "Introducing Claude Haiku 5.5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94MUNId0d0TmJZUzNMVGwtcU5ZX0ZGYnlwZFVlRUxaM2tndlktanQwR3Z5OWJvMVRhWlNsVkhlWEpzY3pMY0M5Wl9DWkptZmlMYUtleA?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic发布Claude Haiku 5.5，轻量模型迭代值得关注"
+    },
+    {
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "source": "Microsoft Research",
+      "reason": "微软开源轻量级智能体RL框架，降低训练门槛"
+    },
+    {
+      "title": "AgentTime: Can Agents Estimate and Control Their Own Runtime?",
+      "sourceUrl": "http://arxiv.org/abs/2610.09944v1",
+      "source": "arXiv",
+      "reason": "探讨智能体自我估算与控制运行时间，切中代理核心能力"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "HuggingFace Blog",
+      "reason": "Nemotron微调斩获IOI与IMO双金牌，推理能力突破"
     }
   ],
-  "trendSummary": "本周AI圈在算力硬件、企业级合作与开放模型上持续升温，同时学界也在反思AI的失败与协作盲区。"
+  "trendSummary": "本周AI圈聚焦轻量智能体框架与端侧多模态模型，强化学习微调持续升温，英伟达联手微软推动PC端AI智能体落地。"
 }
