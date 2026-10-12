@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T01:01:18.136Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T01:20:33.150Z",
   "picks": [
     {
       "title": "Investigating unintended model actions in our evaluations and internal use",
       "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZEVTbmhab3RBQ25rOVd6cDg2akF0NlUwbVJnM1RjalBjd2ZlYWd5Q25UU2I3TjNUTno3WERteFQyTGtBb1UxTmZtOHpTZFZpbC1LMlFyMXVsbS1kWDUwVHM3aGtSWjA1c3FMU3JVcjZrRDZtQlViT3hEd1ZGQQ?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic自曝模型意外行为，AI安全治理关键信号"
+      "reason": "Anthropic自曝模型意外行为，安全议题权威一手信息"
     },
     {
-      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-      "sourceUrl": "http://arxiv.org/abs/2610.12463v1",
-      "source": "arXiv",
-      "reason": "复盘三大厂智能体安全事故，前瞻性防护必读"
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source": "Hacker News",
+      "reason": "OpenAI解雇安全研究员，行业治理重大争议"
     },
     {
-      "title": "Launching an opt-in vulnerability-finding service for open-source software",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYlVFa0lLSzZRaDNqRXNLWjFxOE0xa3pZdkNrV2hkNHkxTDg3QnVRdFVVclpaUXVXTVZyekdxNkRGQTFGTWdmb1h2NGtLT3pOaUJuZG8wYldhVUFMbEdta2o0eERWaGlTalpISG9reWhCTm9VSmI1X0RFVDJ3Rk1zSDF6YmEwZWRiVnFHSS1DczNLZw?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic开源漏洞挖掘服务，安全生态新动作"
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "sourceUrl": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "source": "Hacker News",
+      "reason": "英伟达洽谈收购Reflection AI，格局级并购动向"
     },
     {
-      "title": "Using Claude Science to produce the first complete map of the sky in UV light",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMnp6UURINkFSMTYxWUIwUkhnTkRQLWhjYS1tMFZ5VU1acWY5STFDRDcyVXJVN3JfdXU0bmMxd0VPaG9tM1NDcUJHTENGbHdLVkxLa1ZQUVY5enJIVndMYVRRem9Idmdmei1ZTWVR?oc=5",
-      "source": "Anthropic",
-      "reason": "Claude助力绘出首张紫外全天空图，科研突破"
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "sourceUrl": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "source": "Hacker News",
+      "reason": "Anthropic模型误报凶案线索，AI风险现实案例"
     },
     {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "sourceUrl": "https://openai.com/index/asana-browser-agent",
       "source": "OpenAI",
-      "reason": "Asana模型成本降76倍，工程优化标杆案例"
+      "reason": "Asana模型成本降76倍，落地降本标杆案例"
     }
   ],
-  "trendSummary": "模型安全评估与降本增效并行，AI加速渗透科研、开源与仿真领域。"
+  "trendSummary": "本周AI热点聚焦模型安全与成本优化，企业应用加速落地，科研与开源生态持续深化。"
 }
