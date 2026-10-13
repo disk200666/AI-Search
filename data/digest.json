@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T01:20:33.150Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T03:03:42.776Z",
   "picks": [
     {
-      "title": "Investigating unintended model actions in our evaluations and internal use",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fZEVTbmhab3RBQ25rOVd6cDg2akF0NlUwbVJnM1RjalBjd2ZlYWd5Q25UU2I3TjNUTno3WERteFQyTGtBb1UxTmZtOHpTZFZpbC1LMlFyMXVsbS1kWDUwVHM3aGtSWjA1c3FMU3JVcjZrRDZtQlViT3hEd1ZGQQ?oc=5",
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRTnpIbVhZdVJZa2ZyVy1Namo1b3Qxcm5IVEVJcmllZ0tITVJkd1FKTjBJazBDU3JRX055UHdkTUxtM0hQbG1aSmpKaFZxMFRTU1YzUzNtWi1jU2hiUjR6c3E5VWk?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic自曝模型意外行为，安全议题权威一手信息"
+      "reason": "Anthropic警示AI或无需数据中心即可自我复制，安全议题重大"
     },
     {
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "source": "NVIDIA",
+      "reason": "英伟达开放Vera Rubin架构，AI工厂迈向吉瓦级规模化"
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "sourceUrl": "https://twitter.com/karpathy/status/2109361546505966046",
       "source": "Hacker News",
-      "reason": "OpenAI解雇安全研究员，行业治理重大争议"
+      "reason": "LLM能力认知鸿沟扩大，关乎行业预期与落地风险"
     },
     {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "sourceUrl": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "source": "Hacker News",
-      "reason": "英伟达洽谈收购Reflection AI，格局级并购动向"
+      "title": "Simulating student learning for better AI tutoring",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "source": "Microsoft Research",
+      "reason": "微软用学生模拟评估AI辅导，教育AI评测新范式"
     },
     {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "sourceUrl": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "source": "Hacker News",
-      "reason": "Anthropic模型误报凶案线索，AI风险现实案例"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "sourceUrl": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "reason": "Asana模型成本降76倍，落地降本标杆案例"
+      "title": "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "sourceUrl": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "source": "Apple ML Research",
+      "reason": "苹果用闲置芯片搭建分布式虚拟GPU云，思路新颖"
     }
   ],
-  "trendSummary": "本周AI热点聚焦模型安全与成本优化，企业应用加速落地，科研与开源生态持续深化。"
+  "trendSummary": "AI 正从模型能力走向基础设施与落地，分布式算力、自复制智能体和垂直应用成焦点，同时学界与社区对能力认知分歧和 AI 贡献边界争议加剧。"
 }
