@@ -19304,7 +19304,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-09T00:16:24.688Z",
     "fetchedAt": null,
     "tier": 2
@@ -19431,7 +19431,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-09T00:16:24.688Z",
     "fetchedAt": null,
     "tier": 2
@@ -28670,7 +28670,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 17,
     "firstSeen": "2026-09-12T00:19:25.669Z",
     "fetchedAt": null,
     "tier": 2
@@ -28759,7 +28759,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-09-12T00:19:25.669Z",
     "fetchedAt": null,
     "tier": 2
@@ -31341,7 +31341,7 @@
     "aiSelected": true,
     "origin": "rss:smol-ainews",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-13T00:00:44.013Z",
     "fetchedAt": null,
     "tier": 2
@@ -32836,7 +32836,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": "NASA宇航员与谷歌高管对谈，折射科技巨头正深度介入太空探索与公众叙事。",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-15T00:39:25.654Z",
     "fetchedAt": null,
     "tier": 1
@@ -33090,7 +33090,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-15T00:39:25.654Z",
     "fetchedAt": null,
     "tier": 1
@@ -42336,7 +42336,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-09-23T00:34:39.623Z",
     "fetchedAt": null,
     "tier": 2
@@ -46191,7 +46191,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-21T00:17:14.060Z",
     "fetchedAt": null,
     "tier": 2
@@ -46691,7 +46691,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": "通用人工智能竞赛狂飙突进，安全派声音被边缘化，值得警惕。",
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-20T00:09:38.417Z",
     "fetchedAt": null,
     "tier": 2
@@ -48613,7 +48613,7 @@
       "llm",
       "Python"
     ],
-    "engagement": 2317,
+    "engagement": 2337,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -50987,7 +50987,7 @@
       "ai-agents",
       "api"
     ],
-    "engagement": 185,
+    "engagement": 187,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -51276,12 +51276,12 @@
       "python",
       "Python"
     ],
-    "engagement": 117,
+    "engagement": 120,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-22T00:51:09.647Z",
     "fetchedAt": null,
     "tier": 2
@@ -54105,7 +54105,7 @@
       "chat-assistant",
       "Kotlin"
     ],
-    "engagement": 7714,
+    "engagement": 7749,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -54460,7 +54460,7 @@
       "generative-ai",
       "TypeScript"
     ],
-    "engagement": 1499,
+    "engagement": 1729,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55586,7 +55586,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-24T00:31:08.426Z",
     "fetchedAt": null,
     "tier": 1
@@ -55790,7 +55790,7 @@
     "aiSelected": true,
     "origin": "rss:msr",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-24T00:31:08.426Z",
     "fetchedAt": null,
     "tier": 1
@@ -55807,7 +55807,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-24T00:31:08.426Z",
     "fetchedAt": null,
     "tier": 1
@@ -55896,7 +55896,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-24T00:31:08.426Z",
     "fetchedAt": null,
     "tier": 1
@@ -57403,7 +57403,7 @@
       "obsidian",
       "Swift"
     ],
-    "engagement": 1420,
+    "engagement": 1446,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -57647,7 +57647,7 @@
       "cinematography",
       "claude-skill"
     ],
-    "engagement": 149,
+    "engagement": 151,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -57694,7 +57694,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-09-24T00:31:08.426Z",
     "fetchedAt": null,
     "tier": 2
@@ -59341,7 +59341,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-25T00:33:59.316Z",
     "fetchedAt": null,
     "tier": 2
@@ -62485,7 +62485,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-26T00:38:11.925Z",
     "fetchedAt": null,
     "tier": 2
@@ -63255,7 +63255,7 @@
       "gemini-cli",
       "Go"
     ],
-    "engagement": 11553,
+    "engagement": 12714,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -63433,7 +63433,7 @@
       "mcp",
       "Python"
     ],
-    "engagement": 131,
+    "engagement": 132,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -64234,7 +64234,7 @@
       "claude-skills",
       "HTML"
     ],
-    "engagement": 30,
+    "engagement": 31,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -65152,7 +65152,7 @@
       "agentic-memory",
       "Python"
     ],
-    "engagement": 206,
+    "engagement": 210,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -65797,7 +65797,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": "AI叙事短片获奖，预示生成式影视创作正从实验走向主流竞赛。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 1
@@ -66200,7 +66200,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 1
@@ -66713,7 +66713,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 1
@@ -67018,7 +67018,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 2
@@ -68277,7 +68277,7 @@
       "go",
       "Go"
     ],
-    "engagement": 592,
+    "engagement": 601,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -69543,7 +69543,7 @@
     "aiSelected": true,
     "origin": "rss:anthropic",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 1
@@ -70629,7 +70629,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 1
@@ -70646,7 +70646,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 1
@@ -70751,12 +70751,12 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 7510,
+    "engagement": 7647,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 2
@@ -71341,12 +71341,12 @@
       "gui-agent",
       "Python"
     ],
-    "engagement": 165,
+    "engagement": 168,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 2
@@ -71366,7 +71366,7 @@
       "chinese",
       "Python"
     ],
-    "engagement": 171,
+    "engagement": 189,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -71922,7 +71922,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 2
@@ -72010,7 +72010,7 @@
       "journione",
       "JavaScript"
     ],
-    "engagement": 844,
+    "engagement": 877,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,

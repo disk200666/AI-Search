@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T01:14:03.916Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T00:34:28.924Z",
   "picks": [
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
-      "reason": "Gemini 4 Argon发布，面向开发者与科研的重大模型升级"
-    },
     {
       "title": "Developing Gemini 4 Argon responsibly and safely",
       "sourceUrl": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
       "source": "Google DeepMind",
-      "reason": "DeepMind详解Gemini 4 Argon安全开发，负责任AI关键"
+      "reason": "Gemini 4安全开发披露，旗舰模型动向最受关注"
     },
     {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "sourceUrl": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "sourceUrl": "https://openai.com/index/amp-beyond-coding",
       "source": "OpenAI",
-      "reason": "OpenAI联手Higgsfield，AI视频时长突破10分钟"
+      "reason": "Amp智能体突破代码边界，展现GPT-6应用潜力"
     },
     {
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRTnpIbVhZdVJZa2ZyVy1Namo1b3Qxcm5IVEVJcmllZ0tITVJkd1FKTjBJazBDU3JRX055UHdkTUxtM0hQbG1aSmpKaFZxMFRTU1YzUzNtWi1jU2hiUjR6c3E5VWk?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic警示AI模型或可无数据中心自我复制"
-    },
-    {
-      "title": "How artificial neural networks build their own learning machinery",
-      "sourceUrl": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+      "title": "Researchers improve weather forecasts looking two to six weeks out",
+      "sourceUrl": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
       "source": "MIT News",
-      "reason": "MIT揭示神经网络自主学习机制，理论意义重大"
+      "reason": "MIT机器学习天气预报破纪录，2-6周预测突破"
+    },
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "sourceUrl": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind",
+      "reason": "DeepMind与新加坡合作端侧反诈模型，落地性强"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "sourceUrl": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI",
+      "reason": "万级智能体长时运行，多智能体规模化里程碑"
     }
   ],
-  "trendSummary": "本周AI圈聚焦模型自进化与端侧落地，Gemini 4与本地智能体竞相突破，AI自复制能力引安全担忧。"
+  "trendSummary": "本周AI加速落地，气象、安全、城市运营等领域纷纷用智能体提效，规模化应用成主旋律。"
 }
