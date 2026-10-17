@@ -24931,7 +24931,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-11T00:12:00.282Z",
     "fetchedAt": null,
     "tier": 2
@@ -25151,7 +25151,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-11T00:12:00.282Z",
     "fetchedAt": null,
     "tier": 2
@@ -33056,7 +33056,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-09-15T00:39:25.654Z",
     "fetchedAt": null,
     "tier": 2
@@ -39055,7 +39055,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-17T00:33:33.373Z",
     "fetchedAt": null,
     "tier": 2
@@ -39072,7 +39072,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-17T00:33:33.373Z",
     "fetchedAt": null,
     "tier": 1
@@ -49967,7 +49967,7 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-22T00:51:09.647Z",
     "fetchedAt": null,
     "tier": 2
@@ -50086,7 +50086,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-22T00:51:09.647Z",
     "fetchedAt": null,
     "tier": 2
@@ -50586,7 +50586,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-22T00:51:09.647Z",
     "fetchedAt": null,
     "tier": 2
@@ -50987,12 +50987,12 @@
       "ai-agents",
       "api"
     ],
-    "engagement": 190,
+    "engagement": 193,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-22T00:51:09.647Z",
     "fetchedAt": null,
     "tier": 2
@@ -51938,7 +51938,7 @@
     "aiSelected": true,
     "origin": "rss:anthropic",
     "aiNote": "Anthropic再推旗舰升级，大模型竞赛转向推理与智能体能力比拼，值得紧盯。",
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-23T00:34:39.623Z",
     "fetchedAt": null,
     "tier": 1
@@ -53677,7 +53677,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-23T00:34:39.623Z",
     "fetchedAt": null,
     "tier": 1
@@ -53694,7 +53694,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-23T00:34:39.623Z",
     "fetchedAt": null,
     "tier": 1
@@ -53711,7 +53711,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-23T00:34:39.623Z",
     "fetchedAt": null,
     "tier": 1
@@ -54105,12 +54105,12 @@
       "chat-assistant",
       "Kotlin"
     ],
-    "engagement": 7787,
+    "engagement": 7818,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-09-23T00:34:39.623Z",
     "fetchedAt": null,
     "tier": 2
@@ -54460,7 +54460,7 @@
       "generative-ai",
       "TypeScript"
     ],
-    "engagement": 1812,
+    "engagement": 1844,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55879,7 +55879,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-09-24T00:31:08.426Z",
     "fetchedAt": null,
     "tier": 2
@@ -57403,7 +57403,7 @@
       "obsidian",
       "Swift"
     ],
-    "engagement": 1479,
+    "engagement": 1490,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -63255,12 +63255,12 @@
       "gemini-cli",
       "Go"
     ],
-    "engagement": 13443,
+    "engagement": 14177,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-26T00:38:11.925Z",
     "fetchedAt": null,
     "tier": 2
@@ -65152,12 +65152,12 @@
       "agentic-memory",
       "Python"
     ],
-    "engagement": 212,
+    "engagement": 216,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-09-28T00:47:50.293Z",
     "fetchedAt": null,
     "tier": 2
@@ -65797,7 +65797,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": "AI叙事短片获奖，预示生成式影视创作正从实验走向主流竞赛。",
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 1
@@ -66200,7 +66200,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 1
@@ -66310,7 +66310,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 2
@@ -66713,7 +66713,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 1
@@ -69789,7 +69789,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 2
@@ -70751,7 +70751,7 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 7786,
+    "engagement": 7887,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -71366,12 +71366,12 @@
       "chinese",
       "Python"
     ],
-    "engagement": 204,
+    "engagement": 216,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 2
@@ -71922,7 +71922,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 2
@@ -71947,7 +71947,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 17,
+    "heat": 16,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 2
