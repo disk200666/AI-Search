@@ -6433,7 +6433,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-03T00:17:19.552Z",
     "fetchedAt": null,
     "tier": 1
@@ -9488,7 +9488,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-04T00:14:23.392Z",
     "fetchedAt": null,
     "tier": 1
@@ -33056,7 +33056,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-09-15T00:39:25.654Z",
     "fetchedAt": null,
     "tier": 2
@@ -39055,7 +39055,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 24,
+    "heat": 25,
     "firstSeen": "2026-09-17T00:33:33.373Z",
     "fetchedAt": null,
     "tier": 2
@@ -41857,7 +41857,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-09-18T00:20:46.498Z",
     "fetchedAt": null,
     "tier": 2
@@ -47323,7 +47323,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 22,
+    "heat": 23,
     "firstSeen": "2026-09-20T00:09:38.417Z",
     "fetchedAt": null,
     "tier": 2
@@ -53083,7 +53083,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 24,
     "firstSeen": "2026-09-23T00:34:39.623Z",
     "fetchedAt": null,
     "tier": 2
@@ -54105,7 +54105,7 @@
       "chat-assistant",
       "Kotlin"
     ],
-    "engagement": 7884,
+    "engagement": 7918,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -55879,7 +55879,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 28,
+    "heat": 29,
     "firstSeen": "2026-09-24T00:31:08.426Z",
     "fetchedAt": null,
     "tier": 2
@@ -57403,7 +57403,7 @@
       "obsidian",
       "Swift"
     ],
-    "engagement": 1507,
+    "engagement": 1526,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -58238,7 +58238,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": "长视频生成一致性难题待解，自动化突破或重塑影视创作流程。",
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-09-25T00:33:59.316Z",
     "fetchedAt": null,
     "tier": 1
@@ -59341,7 +59341,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-25T00:33:59.316Z",
     "fetchedAt": null,
     "tier": 2
@@ -59883,7 +59883,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-09-25T00:33:59.316Z",
     "fetchedAt": null,
     "tier": 2
@@ -63255,7 +63255,7 @@
       "gemini-cli",
       "Go"
     ],
-    "engagement": 15919,
+    "engagement": 17021,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -65797,7 +65797,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": "AI叙事短片获奖，预示生成式影视创作正从实验走向主流竞赛。",
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 1
@@ -66200,7 +66200,7 @@
     "aiSelected": true,
     "origin": "rss:mistral",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 1
@@ -69789,7 +69789,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 2
@@ -69946,7 +69946,7 @@
     "aiSelected": true,
     "origin": "rss:raschka",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-09-30T01:18:23.727Z",
     "fetchedAt": null,
     "tier": 2
@@ -70751,7 +70751,7 @@
       "daily-digest",
       "TypeScript"
     ],
-    "engagement": 8010,
+    "engagement": 8090,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -71341,7 +71341,7 @@
       "gui-agent",
       "Python"
     ],
-    "engagement": 172,
+    "engagement": 176,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -71366,7 +71366,7 @@
       "chinese",
       "Python"
     ],
-    "engagement": 242,
+    "engagement": 253,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,

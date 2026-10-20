@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-19T00:13:14.595Z",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T01:06:25.465Z",
   "picks": [
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "sourceUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch",
+      "reason": "Anthropic再签450亿美元算力大单，AI基建军备竞赛升级"
+    },
+    {
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "sourceUrl": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "source": "NVIDIA",
+      "reason": "德国借NVIDIA打造工业AI全球领导者，产业落地风向标"
+    },
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "sourceUrl": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
-      "reason": "DeepSeek新模型发布，开源社区高度关注"
+      "reason": "DeepSeek v4.1 Flash发布，国产模型迭代值得关注"
     },
     {
-      "title": "Investing in the public benefit",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic公益投资动向，头部AI公司战略风向"
+      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "sourceUrl": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "source": "MIT News",
+      "reason": "MIT用对称性提升产前诊断可靠性，AI医疗新突破"
     },
     {
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "sourceUrl": "https://api-docs.deepseek.com/guides/search/",
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "sourceUrl": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
       "source": "Hacker News",
-      "reason": "DeepSeek搜索抓取低价定价，开发者实用"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmhqUzNHN09EMF9VUnNTcmlMTlpDVnlnTmxNa0tVY3h1bjJ4bmVDSWROR3JoRTgxb0dQcWYzNGF4dE9YYlNpRDlKVEx6OEVyM3RnY0R6WVRiZERYRVRtcnJ4WF9ZNWZFWVQ2a1Q5UFRnM2xYM0U5akZzOA?oc=5",
-      "source": "Anthropic",
-      "reason": "Claude设计量子电路，AI科研应用新案例"
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "sourceUrl": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "source": "Hacker News",
-      "reason": "揭示AI基准与真实工作脱节，值得反思"
+      "reason": "CERN与Mistral战略合作，欧洲科研AI自主化信号"
     }
   ],
-  "trendSummary": "本周AI圈聚焦于大模型商业化提速与落地深化，从DeepSeek降价到企业级生成式AI部署，同时学界业界正反思AI预期落差与就业影响。"
+  "trendSummary": "本周AI圈聚焦产业落地：工业AI、医疗诊断与材料研发加速渗透，低成本模型与智能体推理持续进化，生成式AI正全面融入企业服务。"
 }
