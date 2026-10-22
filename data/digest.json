@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-21T00:38:12.628Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T00:42:07.366Z",
   "picks": [
     {
-      "title": "OpenAI acquires Orchestra Bio",
-      "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "title": "OpenAI models are coming to Google Cloud",
+      "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
       "source": "OpenAI",
-      "reason": "OpenAI收购Orchestra Bio，AI进入生命科学运营，战略信号强"
+      "reason": "OpenAI模型登陆Google Cloud，跨云合作影响深远"
     },
     {
-      "title": "Voxtral 3",
-      "sourceUrl": "https://mistral.ai/news/voxtral-3/",
-      "source": "Mistral AI",
-      "reason": "Mistral发布Voxtral 3语音智能体SDK，支持50+语言实时语音"
-    },
-    {
-      "title": "How Claude designed protein binders against scorpion neurotoxins",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VNkRtQVc2UUZVVmgyWUJOQU5RSjdCMjQ0V1JuczVKVmxoME1pQ295LWZ5a3J1M21SWk1yWUtGQ01pbTN3bFVldVVmc01QLXNYYlBqRi04UnZ4VWR5NzU1dTZuYzFxRVA5enZObVVFeE1sVURIVFp1NGVn?oc=5",
+      "title": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxTV92LUpSMkM3VmtLNU5VN3VPNUFfRVFOUDY2b19URFhNUGtiX3pNdWZoT1ExT3dNSVpXQk5menJPQU9iYTVjWnlvZVU2eUk3XzBEWVROanFhNmp2Y0FYSTBFU0trTDhQeUVlOFpzTTJCNVBBRUg2RC04cGkzU1U?oc=5",
       "source": "Anthropic",
-      "reason": "Claude设计抗蝎毒蛋白结合体，AI科研落地典型案例"
+      "reason": "Anthropic年度公益报告，披露治理与使命进展"
     },
     {
-      "title": "Muse Glimmer 30B: An On-Device Agentic Model | Research",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjZZVk1ERVYyQmZEMEZSZE1yTFg4M3hYV0hyMmtqamx2VmgyYldwMTd6MzZmX1hIMkFJSWxhaUdZREo0QUFIWGdEXzhjczNCY0ItVklUQmJPSFFMNVFyNVJoTTY4Z2NjdDBhQmFJX01VTmZaS1NkMW8yc0trcnBxVy1KX3NZcTM1eGY2RUZZbw?oc=5",
-      "source": "Meta AI",
-      "reason": "Meta推出30B端侧智能体模型，端侧Agent方向重要进展"
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI",
+      "reason": "ChatGPT广告扩至26国，商业化提速值得关注"
     },
     {
-      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-      "sourceUrl": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
-      "source": "NVIDIA",
-      "reason": "德国借NVIDIA打造工业AI全球领导者，国家级布局值得关注"
+      "title": "Mistral Advances AI for Engineering with NVIDIA",
+      "sourceUrl": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+      "source": "Mistral AI",
+      "reason": "Mistral联手NVIDIA推进工程AI，欧洲布局"
+    },
+    {
+      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+      "sourceUrl": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+      "source": "Google Research",
+      "reason": "AI辅助超声赋能基层母婴护理，落地价值高"
     }
   ],
-  "trendSummary": "本周AI热点从生成式仿真到蛋白质设计全面开花，小模型靠记忆登顶、推理框架和语音模型持续进化，OpenAI收购动作也透露出生态整合加速。"
+  "trendSummary": "本周AI圈聚焦企业透明度与落地效率，Anthropic发布公益报告，英伟达推免训练新方法，小模型降本增效，AI深入法律、医疗等一线场景。"
 }
