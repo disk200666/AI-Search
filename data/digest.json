@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T00:42:07.366Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T00:41:12.176Z",
   "picks": [
     {
-      "title": "OpenAI models are coming to Google Cloud",
-      "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI",
-      "reason": "OpenAI模型登陆Google Cloud，跨云合作影响深远"
-    },
-    {
-      "title": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxTV92LUpSMkM3VmtLNU5VN3VPNUFfRVFOUDY2b19URFhNUGtiX3pNdWZoT1ExT3dNSVpXQk5menJPQU9iYTVjWnlvZVU2eUk3XzBEWVROanFhNmp2Y0FYSTBFU0trTDhQeUVlOFpzTTJCNVBBRUg2RC04cGkzU1U?oc=5",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic年度公益报告，披露治理与使命进展"
+      "reason": "LLM让形式化软件验证大规模可行，技术突破意义重大"
     },
     {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "source": "NVIDIA",
+      "reason": "英伟达Minerva为AI工厂提供端到端可观测性"
+    },
+    {
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "source": "NVIDIA",
+      "reason": "Cosmos新工具加速世界模型训练与部署"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "HuggingFace Blog",
+      "reason": "将数据库评分转为RL奖励，智能体后训练新范式"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
       "source": "OpenAI",
-      "reason": "ChatGPT广告扩至26国，商业化提速值得关注"
-    },
-    {
-      "title": "Mistral Advances AI for Engineering with NVIDIA",
-      "sourceUrl": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
-      "source": "Mistral AI",
-      "reason": "Mistral联手NVIDIA推进工程AI，欧洲布局"
-    },
-    {
-      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
-      "sourceUrl": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
-      "source": "Google Research",
-      "reason": "AI辅助超声赋能基层母婴护理，落地价值高"
+      "reason": "Uber三万余员工全面部署ChatGPT，企业落地标杆"
     }
   ],
-  "trendSummary": "本周AI圈聚焦企业透明度与落地效率，Anthropic发布公益报告，英伟达推免训练新方法，小模型降本增效，AI深入法律、医疗等一线场景。"
+  "trendSummary": "本周AI圈聚焦智能体训练与落地，强化学习、形式化验证和可观测性工具加速推进，同时地球观测与交互式可视化模型持续拓展应用边界。"
 }
