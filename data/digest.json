@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T00:41:12.176Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T00:43:42.159Z",
   "picks": [
+    {
+      "title": "Securing our frontier model training environment",
+      "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI",
+      "reason": "OpenAI前沿模型训练环境安全加固，关乎AI安全底线"
+    },
+    {
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hcjNRbVFacnhzLWNNYnRkSTlVM2FkMnotYTd0MEpwTmlsQ2N1NlVPdjJjdXJhNG9FbC14d3FIR3pVaEh0SEdIamRWWmNTazRXVGNxbFg3dEFZN0RQT0tVcWpWZlpGTlZYb29uTW9PQQ?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic对英国AISI网络测试事件的对齐评估，安全警示"
+    },
+    {
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "sourceUrl": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "source": "Google Research",
+      "reason": "谷歌将基础模型用于结核病筛查，AI医疗落地范例"
+    },
     {
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
       "source": "Anthropic",
-      "reason": "LLM让形式化软件验证大规模可行，技术突破意义重大"
+      "reason": "LLM让形式化软件验证规模化可行，工程意义重大"
     },
     {
-      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-      "sourceUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-      "source": "NVIDIA",
-      "reason": "英伟达Minerva为AI工厂提供端到端可观测性"
-    },
-    {
-      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "source": "NVIDIA",
-      "reason": "Cosmos新工具加速世界模型训练与部署"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "HuggingFace Blog",
-      "reason": "将数据库评分转为RL奖励，智能体后训练新范式"
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI",
-      "reason": "Uber三万余员工全面部署ChatGPT，企业落地标杆"
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "sourceUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "source": "Hacker News",
+      "reason": "Kimi K3.1 Pro发布，国产大模型性能值得关注"
     }
   ],
-  "trendSummary": "本周AI圈聚焦智能体训练与落地，强化学习、形式化验证和可观测性工具加速推进，同时地球观测与交互式可视化模型持续拓展应用边界。"
+  "trendSummary": "本周AI圈聚焦安全治理与人文平衡：一边加速扩展算力与存储支撑亿级用户，一边推进模型对齐、训练环境防护和跨国安全合作，同时反思AI如何理解人、服务民主。"
 }
