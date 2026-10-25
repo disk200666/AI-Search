@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T00:43:42.159Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T00:20:59.875Z",
   "picks": [
     {
       "title": "Securing our frontier model training environment",
       "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "source": "OpenAI",
-      "reason": "OpenAI前沿模型训练环境安全加固，关乎AI安全底线"
+      "reason": "OpenAI公开前沿模型训练环境安全加固，行业安全标杆"
     },
     {
       "title": "An alignment assessment of the UK AISI cybertesting incident",
       "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hcjNRbVFacnhzLWNNYnRkSTlVM2FkMnotYTd0MEpwTmlsQ2N1NlVPdjJjdXJhNG9FbC14d3FIR3pVaEh0SEdIamRWWmNTazRXVGNxbFg3dEFZN0RQT0tVcWpWZlpGTlZYb29uTW9PQQ?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic对英国AISI网络测试事件的对齐评估，安全警示"
+      "reason": "Anthropic评估英国AISI网络测试事件，对齐研究重要案例"
     },
     {
       "title": "Bringing foundational models to the front lines of TB screening",
       "sourceUrl": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
       "source": "Google Research",
-      "reason": "谷歌将基础模型用于结核病筛查，AI医疗落地范例"
+      "reason": "谷歌将基础模型用于结核病筛查一线，医疗AI落地"
     },
     {
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
       "source": "Anthropic",
-      "reason": "LLM让形式化软件验证规模化可行，工程意义重大"
+      "reason": "LLM让形式化软件验证大规模可行，工程意义重大"
     },
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "sourceUrl": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "source": "Hacker News",
-      "reason": "Kimi K3.1 Pro发布，国产大模型性能值得关注"
+      "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "sourceUrl": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+      "source": "MIT News",
+      "reason": "MIT讲座探讨AI与民主韧性，兼具公共议题深度"
     }
   ],
-  "trendSummary": "本周AI圈聚焦安全治理与人文平衡：一边加速扩展算力与存储支撑亿级用户，一边推进模型对齐、训练环境防护和跨国安全合作，同时反思AI如何理解人、服务民主。"
+  "trendSummary": "本周AI热点从技术突破转向治理与落地，学界探讨AI与民主、人脑建模，产业聚焦结核筛查、十亿级存储与前沿模型安全。"
 }
