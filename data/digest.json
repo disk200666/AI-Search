@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T00:24:09.225Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T01:29:29.144Z",
   "picks": [
+    {
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic启动IPO，AI行业资本化里程碑"
+    },
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "sourceUrl": "https://minimaxir.com/2026/10/cheap-llms/",
+      "source": "Hacker News",
+      "reason": "OpenAI与Anthropic大幅降价，行业竞争加剧"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI",
+      "reason": "OpenAI用模型攻克数学难题，科研价值高"
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI",
+      "reason": "ChatGPT工作场景全球数据，洞察实用"
+    },
     {
       "title": "No signs of AI payoff outside the tech sector",
       "sourceUrl": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News",
-      "reason": "揭示AI投资回报局限于科技业，值得警惕"
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI",
-      "reason": "OpenAI前沿模型训练安全加固，行业关键议题"
-    },
-    {
-      "title": "An alignment assessment of the UK AISI cybertesting incident",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hcjNRbVFacnhzLWNNYnRkSTlVM2FkMnotYTd0MEpwTmlsQ2N1NlVPdjJjdXJhNG9FbC14d3FIR3pVaEh0SEdIamRWWmNTazRXVGNxbFg3dEFZN0RQT0tVcWpWZlpGTlZYb29uTW9PQQ?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic对齐评估报告，AI安全重要参考"
-    },
-    {
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "sourceUrl": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "source": "Google Research",
-      "reason": "生成式AI落地结核筛查，医疗应用亮点"
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "sourceUrl": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News",
-      "reason": "AI致媒体艺术岗位流失，就业冲击受关注"
+      "reason": "AI回报仅限科技业，值得警惕的信号"
     }
   ],
-  "trendSummary": "本周AI热点从模型竞赛转向落地与治理：一边是基础设施扩容和安全对齐，一边是医疗筛查等实际应用，学界也在追问AI如何真正创造价值。"
+  "trendSummary": "GPT-6系列加速渗透代码审查与安全领域，Anthropic启动IPO进程，AI正从开发工具延伸至科研与商业场景。"
 }
