@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T01:23:45.036Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T01:48:45.572Z",
   "picks": [
     {
-      "title": "Genie 4: A new generation of world simulation",
-      "sourceUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "source": "Google DeepMind",
-      "reason": "DeepMind新一代世界模型，实时仿真真实性突破，行业风向标"
+      "reason": "DeepMind发布下一代前沿模型Gemini 4 Carbon，行业重磅"
     },
     {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "sourceUrl": "https://openai.com/index/retell-ai",
+      "title": "The future of the firm",
+      "sourceUrl": "https://openai.com/index/the-future-of-the-firm",
       "source": "OpenAI",
-      "reason": "OpenAI语音Agent月通话破亿，GPT-6 Astra登顶基准"
+      "reason": "OpenAI探讨AI如何进入组织架构，前瞻性战略思考"
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "sourceUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI",
+      "reason": "OpenAI与ServiceNow扩大企业工作流合作，落地意义大"
+    },
+    {
+      "title": "AI for Science expands to foundations and research institutions",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic将AI for Science扩展至基金会与研究机构"
     },
     {
       "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
       "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTTViWmp6TE1SU3lNQjd6aWozb0Rhd0VjSVlMOThjRXpFRjBvN1lZdVRreFg3UWRGNjNqRkViU3lQbFJuaHRIMXBJUHFHSXhpbTZSTGhybUxOdTU3bEFDMUIzd0NmcWRHRk1CckVLV2FIT1ZDb1ZMZHJ0WWhxSE0?oc=5",
       "source": "Anthropic",
-      "reason": "Claude实战挖出关键软件漏洞，AI安全能力重要验证"
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5",
-      "source": "Anthropic",
-      "reason": "Claude加速药物研发早期进展，AI科研落地看点"
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "sourceUrl": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI",
-      "reason": "OpenAI与Oracle合作，企业应用接入ChatGPT生态"
+      "reason": "用Claude发现并利用真实关键软件漏洞，安全价值高"
     }
   ],
-  "trendSummary": "本周AI热点聚焦政府合作、药物研发与科研评估，多模态模型和世界模拟持续演进，AI正加速渗透公共服务与科学发现。"
+  "trendSummary": "本周AI圈正从模型竞赛转向落地深耕，科学、法律、政务与企业流程全面拥抱智能体，基础设施与端侧硬件同步升温。"
 }
