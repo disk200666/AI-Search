@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T01:48:45.572Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T01:58:13.977Z",
   "picks": [
+    {
+      "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+      "sourceUrl": "https://mistral.ai/news/mistral-large-4-oss/",
+      "source": "Mistral AI",
+      "reason": "Mistral开源1T参数多模态大模型，权重开放意义重大"
+    },
     {
       "title": "Gemini 4 Carbon: Our next frontier model",
       "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "source": "Google DeepMind",
-      "reason": "DeepMind发布下一代前沿模型Gemini 4 Carbon，行业重磅"
+      "reason": "DeepMind发布下一代前沿模型Gemini 4 Carbon"
     },
     {
-      "title": "The future of the firm",
-      "sourceUrl": "https://openai.com/index/the-future-of-the-firm",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "sourceUrl": "https://openai.com/index/updated-model-spec",
       "source": "OpenAI",
-      "reason": "OpenAI探讨AI如何进入组织架构，前瞻性战略思考"
+      "reason": "OpenAI更新模型规范，明确五大核心价值观"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "sourceUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI",
+      "reason": "OpenAI披露前沿模型失准检测的分层监控方法"
     },
     {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "sourceUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI",
-      "reason": "OpenAI与ServiceNow扩大企业工作流合作，落地意义大"
-    },
-    {
-      "title": "AI for Science expands to foundations and research institutions",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic将AI for Science扩展至基金会与研究机构"
-    },
-    {
-      "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTTViWmp6TE1SU3lNQjd6aWozb0Rhd0VjSVlMOThjRXpFRjBvN1lZdVRreFg3UWRGNjNqRkViU3lQbFJuaHRIMXBJUHFHSXhpbTZSTGhybUxOdTU3bEFDMUIzd0NmcWRHRk1CckVLV2FIT1ZDb1ZMZHJ0WWhxSE0?oc=5",
-      "source": "Anthropic",
-      "reason": "用Claude发现并利用真实关键软件漏洞，安全价值高"
+      "reason": "OpenAI与ServiceNow扩大企业工作流合作"
     }
   ],
-  "trendSummary": "本周AI圈正从模型竞赛转向落地深耕，科学、法律、政务与企业流程全面拥抱智能体，基础设施与端侧硬件同步升温。"
+  "trendSummary": "本周AI圈聚焦模型规范与对齐安全，开源模型迭代加速，AI深入科学与法律等专业场景，端侧部署与智能体仿真成新方向。"
 }
