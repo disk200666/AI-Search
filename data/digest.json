@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T01:58:13.977Z",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T01:36:17.159Z",
   "picks": [
     {
-      "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
-      "sourceUrl": "https://mistral.ai/news/mistral-large-4-oss/",
-      "source": "Mistral AI",
-      "reason": "Mistral开源1T参数多模态大模型，权重开放意义重大"
-    },
-    {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "sourceUrl": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "Google DeepMind",
-      "reason": "DeepMind发布下一代前沿模型Gemini 4 Carbon"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "sourceUrl": "https://openai.com/index/updated-model-spec",
+      "title": "Making it easier for websites to express AI training preferences",
+      "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "source": "OpenAI",
-      "reason": "OpenAI更新模型规范，明确五大核心价值观"
+      "reason": "OpenAI统一robots.txt信号，AI训练数据合规关键一步"
     },
     {
-      "title": "How we detect frontier model misalignment",
-      "sourceUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "Community safety report and new protections for teens",
+      "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI",
-      "reason": "OpenAI披露前沿模型失准检测的分层监控方法"
+      "reason": "OpenAI强化青少年保护，AI安全治理重要动向"
     },
     {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "sourceUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "title": "Q&A: Hey AI, who should I vote for this year?",
+      "sourceUrl": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+      "source": "MIT News",
+      "reason": "MIT学者追踪AI政治说服，选举季高关切议题"
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "sourceUrl": "https://openai.com/index/fair-use-benefits-everyone",
       "source": "OpenAI",
-      "reason": "OpenAI与ServiceNow扩大企业工作流合作"
+      "reason": "OpenAI发布合理使用法律简报，版权争议核心"
+    },
+    {
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "NVIDIA",
+      "reason": "英伟达用智能体AI搜寻地外信号，跨界新颖"
     }
   ],
-  "trendSummary": "本周AI圈聚焦模型规范与对齐安全，开源模型迭代加速，AI深入科学与法律等专业场景，端侧部署与智能体仿真成新方向。"
+  "trendSummary": "本周AI圈聚焦安全治理与数据伦理，从青少年保护、网站训练偏好到公平使用，同时探索AI在选举、外星信号等场景的落地边界。"
 }
