@@ -32836,7 +32836,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": "NASA宇航员与谷歌高管对谈，折射科技巨头正深度介入太空探索与公众叙事。",
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-15T00:39:25.654Z",
     "fetchedAt": null,
     "tier": 1
@@ -33090,7 +33090,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-15T00:39:25.654Z",
     "fetchedAt": null,
     "tier": 1
@@ -36188,7 +36188,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-16T00:21:58.394Z",
     "fetchedAt": null,
     "tier": 1
@@ -41857,7 +41857,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-09-18T00:20:46.498Z",
     "fetchedAt": null,
     "tier": 2
@@ -42336,7 +42336,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 21,
     "firstSeen": "2026-09-23T00:34:39.623Z",
     "fetchedAt": null,
     "tier": 2
@@ -54085,7 +54085,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 15,
+    "heat": 14,
     "firstSeen": "2026-09-23T00:34:39.623Z",
     "fetchedAt": null,
     "tier": 2
@@ -62094,7 +62094,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-26T00:38:11.925Z",
     "fetchedAt": null,
     "tier": 2
@@ -63391,7 +63391,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 18,
+    "heat": 19,
     "firstSeen": "2026-09-26T00:38:11.925Z",
     "fetchedAt": null,
     "tier": 2
@@ -63617,7 +63617,7 @@
     "origin": "hackernews",
     "aiNote": "开源弹性算力新范式，或改写大模型训练成本格局。",
     "image": null,
-    "heat": 25,
+    "heat": 26,
     "firstSeen": "2026-09-27T00:37:30.067Z",
     "fetchedAt": null,
     "tier": 2

@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T01:36:17.159Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T01:11:22.750Z",
   "picks": [
+    {
+      "title": "Automated Subtle Emergent Misalignment Research",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XNUJtenZlYUlZcldQVVBmY2x5YmJORkxTWm92NTVobk5jOTMzbmRkY0w1WGVuVEtMN292M0NISWJYMDEycEtxM05heHVsbGYtc1lJRkhHWUI0X3FxWUxVcFJCSVVGS1Rt?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic对齐研究新作，AI涌现失调议题关键"
+    },
     {
       "title": "Making it easier for websites to express AI training preferences",
       "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "source": "OpenAI",
-      "reason": "OpenAI统一robots.txt信号，AI训练数据合规关键一步"
+      "reason": "OpenAI统一robots.txt训练偏好信号，行业影响大"
     },
     {
       "title": "Community safety report and new protections for teens",
       "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI",
-      "reason": "OpenAI强化青少年保护，AI安全治理重要动向"
+      "reason": "OpenAI青少年保护与社区安全新举措"
     },
     {
       "title": "Q&A: Hey AI, who should I vote for this year?",
       "sourceUrl": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
       "source": "MIT News",
-      "reason": "MIT学者追踪AI政治说服，选举季高关切议题"
+      "reason": "MIT学者谈AI与选举信息追踪，时效性强"
     },
     {
-      "title": "Fair use benefits everyone",
-      "sourceUrl": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI",
-      "reason": "OpenAI发布合理使用法律简报，版权争议核心"
-    },
-    {
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "source": "NVIDIA",
-      "reason": "英伟达用智能体AI搜寻地外信号，跨界新颖"
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "source": "Microsoft Research",
+      "reason": "微软Copilot企业级评估方法论，落地价值高"
     }
   ],
-  "trendSummary": "本周AI圈聚焦安全治理与数据伦理，从青少年保护、网站训练偏好到公平使用，同时探索AI在选举、外星信号等场景的落地边界。"
+  "trendSummary": "本周AI圈聚焦安全对齐与治理：从涌现失配研究到训练偏好表达，再到青少年保护，业界正加速构建可信AI的规则与防线。"
 }
