@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T01:11:22.750Z",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T01:30:46.839Z",
   "picks": [
     {
-      "title": "Automated Subtle Emergent Misalignment Research",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XNUJtenZlYUlZcldQVVBmY2x5YmJORkxTWm92NTVobk5jOTMzbmRkY0w1WGVuVEtMN292M0NISWJYMDEycEtxM05heHVsbGYtc1lJRkhHWUI0X3FxWUxVcFJCSVVGS1Rt?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic对齐研究新作，AI涌现失调议题关键"
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "sourceUrl": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "source": "Hacker News",
+      "reason": "官方Claude Code扩展被植入后门，开发者需立即排查风险"
     },
     {
       "title": "Making it easier for websites to express AI training preferences",
       "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "source": "OpenAI",
-      "reason": "OpenAI统一robots.txt训练偏好信号，行业影响大"
+      "reason": "OpenAI支持robots.txt统一信号，网站AI训练偏好获尊重"
     },
     {
       "title": "Community safety report and new protections for teens",
       "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "source": "OpenAI",
-      "reason": "OpenAI青少年保护与社区安全新举措"
+      "reason": "OpenAI发布社区安全报告，强化青少年保护与暴力预防"
     },
     {
-      "title": "Q&A: Hey AI, who should I vote for this year?",
-      "sourceUrl": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
-      "source": "MIT News",
-      "reason": "MIT学者谈AI与选举信息追踪，时效性强"
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "NVIDIA",
+      "reason": "NVIDIA用智能体AI搜寻地外信号，科研范式新探索"
     },
     {
-      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-      "source": "Microsoft Research",
-      "reason": "微软Copilot企业级评估方法论，落地价值高"
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "reason": "OpenAI拟将数据中心改称AI算力园区，公关策略引关注"
     }
   ],
-  "trendSummary": "本周AI圈聚焦安全对齐与治理：从涌现失配研究到训练偏好表达，再到青少年保护，业界正加速构建可信AI的规则与防线。"
+  "trendSummary": "本周AI圈聚焦数据治理与安全：训练偏好表达、青少年保护、版权合理使用及数据归因设计成热点，同时智能体应用向科研与企业场景延伸。"
 }
