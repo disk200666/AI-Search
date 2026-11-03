@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T01:30:46.839Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T03:28:44.190Z",
   "picks": [
     {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "sourceUrl": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "source": "Hacker News",
-      "reason": "官方Claude Code扩展被植入后门，开发者需立即排查风险"
+      "title": "The latest AI news we announced in October 2026",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI",
+      "reason": "谷歌月度AI更新汇总，覆盖面广，信息密度高"
     },
     {
-      "title": "Making it easier for websites to express AI training preferences",
-      "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "Anthropic Residency: applications open for established technical leaders",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic驻留计划开放申请，技术领袖关注"
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "sourceUrl": "https://openai.com/index/grid-protectors-program",
       "source": "OpenAI",
-      "reason": "OpenAI支持robots.txt统一信号，网站AI训练偏好获尊重"
+      "reason": "OpenAI电网保护计划，AI算力能源议题前沿"
     },
     {
-      "title": "Community safety report and new protections for teens",
-      "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "title": "LifeVal",
+      "sourceUrl": "https://openai.com/index/lifeval",
       "source": "OpenAI",
-      "reason": "OpenAI发布社区安全报告，强化青少年保护与暴力预防"
+      "reason": "LifeVal新基准衡量AI日常助人能力，实用"
     },
     {
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "source": "NVIDIA",
-      "reason": "NVIDIA用智能体AI搜寻地外信号，科研范式新探索"
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch",
-      "reason": "OpenAI拟将数据中心改称AI算力园区，公关策略引关注"
+      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
+      "sourceUrl": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
+      "source": "MIT News",
+      "reason": "MIT教授获AI科学奖，AI抗生素发现里程碑"
     }
   ],
-  "trendSummary": "本周AI圈聚焦数据治理与安全：训练偏好表达、青少年保护、版权合理使用及数据归因设计成热点，同时智能体应用向科研与企业场景延伸。"
+  "trendSummary": "本周AI圈聚焦安全加固与人才争夺，OpenAI和Anthropic加码防御与招募，AI在科研和模型优化上持续突破。"
 }
