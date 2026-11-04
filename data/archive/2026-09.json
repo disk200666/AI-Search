@@ -39055,7 +39055,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-17T00:33:33.373Z",
     "fetchedAt": null,
     "tier": 2
@@ -41110,7 +41110,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": "生成式界面让教师自造互动课件，教育AI正从内容生成走向工具生成。",
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-18T00:20:46.498Z",
     "fetchedAt": null,
     "tier": 1
@@ -41216,7 +41216,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": "联合国数据首次统一开放，为全球治理和AI研究提供权威底座。",
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-18T00:20:46.498Z",
     "fetchedAt": null,
     "tier": 1
@@ -44710,7 +44710,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-19T00:21:57.926Z",
     "fetchedAt": null,
     "tier": 1
@@ -44850,7 +44850,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-09-19T00:21:57.926Z",
     "fetchedAt": null,
     "tier": 1
@@ -66535,7 +66535,7 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-09-29T01:58:24.838Z",
     "fetchedAt": null,
     "tier": 2
