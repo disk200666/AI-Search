@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T03:28:44.190Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T02:29:17.687Z",
   "picks": [
     {
-      "title": "The latest AI news we announced in October 2026",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI",
-      "reason": "谷歌月度AI更新汇总，覆盖面广，信息密度高"
+      "title": "A thousand fewer paths to root",
+      "sourceUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI",
+      "reason": "OpenAI自动化管线自主发现并生成补丁，工程价值高"
     },
     {
       "title": "Anthropic Residency: applications open for established technical leaders",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic驻留计划开放申请，技术领袖关注"
+      "reason": "Anthropic驻留计划开放申请，面向资深技术领袖"
     },
     {
-      "title": "Introducing the Grid Protectors Program",
-      "sourceUrl": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI",
-      "reason": "OpenAI电网保护计划，AI算力能源议题前沿"
+      "title": "Reward Budgeting Reduces Premature Convergence in Reinforcement Learning for LLM Reasoning",
+      "sourceUrl": "http://arxiv.org/abs/2611.05942v1",
+      "source": "arXiv",
+      "reason": "奖励预算缓解RL推理过早收敛，方法实用"
     },
     {
-      "title": "LifeVal",
-      "sourceUrl": "https://openai.com/index/lifeval",
-      "source": "OpenAI",
-      "reason": "LifeVal新基准衡量AI日常助人能力，实用"
+      "title": "Routes of Reasoning: Reading and Reshaping Test-Time Compute in MoE Models",
+      "sourceUrl": "http://arxiv.org/abs/2611.05919v1",
+      "source": "arXiv",
+      "reason": "解析MoE推理测试时算力分配，洞察深刻"
     },
     {
-      "title": "Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery",
-      "sourceUrl": "https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102",
-      "source": "MIT News",
-      "reason": "MIT教授获AI科学奖，AI抗生素发现里程碑"
+      "title": "Graph-Mediated Large Language Model Systems in the Agentic Era: Reasoning, Knowledge, Retrieval, Execution, and Coordination",
+      "sourceUrl": "http://arxiv.org/abs/2611.05953v1",
+      "source": "arXiv",
+      "reason": "图介导LLM系统综述，覆盖智能体全链路"
     }
   ],
-  "trendSummary": "本周AI圈聚焦安全加固与人才争夺，OpenAI和Anthropic加码防御与招募，AI在科研和模型优化上持续突破。"
+  "trendSummary": "本周AI圈聚焦智能体系统与推理优化，从图结构协调到强化学习奖励调控，同时关注可解释模型与机器人社会感知，技术落地与人文视角并行。"
 }
