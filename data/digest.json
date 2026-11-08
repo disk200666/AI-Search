@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T01:56:39.320Z",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T01:27:07.081Z",
   "picks": [
     {
       "title": "The components of agent memory",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uaktEZlp1anNnLVpGTHNDMXE2d0p2cmxiRzZ3REI2QWQzYndMV01KVk1UYWExM0RlSF9YR3FrRzd6Wllhcm80NDZWanpDTV9zZkNoZWlzcWp4YWxDNkFqa1p2Z290X3BobFg1TnBn?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic解析智能体记忆组件，直击Agent工程核心"
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "reason": "OpenAI发布湿实验室AI智能体基准，科学自动化风向标"
+      "reason": "Anthropic系统拆解智能体记忆组件，工程实践必读"
     },
     {
       "title": "Project EVE: Claude plays MMORPGs",
       "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5",
       "source": "Anthropic",
-      "reason": "Claude玩MMORPG，展示智能体长程任务能力边界"
+      "reason": "Claude玩MMORPG，展示智能体长程任务能力"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI",
+      "reason": "OpenAI发布湿实验室AI智能体基准，填补评测空白"
+    },
+    {
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "sourceUrl": "http://arxiv.org/abs/2611.08478v1",
+      "source": "arXiv",
+      "reason": "为AI科学家构建研究世界，前沿范式探索"
     },
     {
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
       "source": "HuggingFace Blog",
-      "reason": "英伟达Cosmos 3开放世界模型，交互仿真重要进展"
-    },
-    {
-      "title": "Teaching AI to build scientific models",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rLVltMFY0UFlmby1uSWtsdF9VZHpwWmNqUWZ3dFpTUDZKd2ZfZTVZRHl0aE5OdGxvLUt0OXc3WXZvLWdjSkNQZEpvSk9jNVJYUWlZZGpHZ0Q5Z2hQNFpDZ3JjZl9DUGROYXc0NWE4aWZfYnREX1ZMT3VGT3RaUQ?oc=5",
-      "source": "Anthropic",
-      "reason": "教AI构建科学模型，科研自动化关键方法论"
+      "reason": "英伟达开源交互式世界模拟模型，值得关注"
     }
   ],
-  "trendSummary": "本周AI圈聚焦智能体能力拓展与科学应用，从记忆机制、游戏实验到实验室科研，同时推进安全检测与多语种语音覆盖。"
+  "trendSummary": "本周AI圈聚焦智能体从记忆、游戏到科学实验的能力拓展，同时安全与多语种语音识别持续升温。"
 }
