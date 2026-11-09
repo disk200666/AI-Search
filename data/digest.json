@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T01:27:07.081Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T01:44:27.733Z",
   "picks": [
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "sourceUrl": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "Hacker News",
+      "reason": "高盛撤下Claude Code，企业级AI落地风向标事件"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch",
+      "reason": "英伟达调查黄仁勋涉华间谍关系，重大公司治理冲击"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "sourceUrl": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News",
+      "reason": "Claude Code泄露密码至公开仓库，安全警示性强"
+    },
     {
       "title": "The components of agent memory",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uaktEZlp1anNnLVpGTHNDMXE2d0p2cmxiRzZ3REI2QWQzYndMV01KVk1UYWExM0RlSF9YR3FrRzd6Wllhcm80NDZWanpDTV9zZkNoZWlzcWp4YWxDNkFqa1p2Z290X3BobFg1TnBn?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic系统拆解智能体记忆组件，工程实践必读"
+      "reason": "Anthropic官方拆解智能体记忆架构，技术必读"
     },
     {
-      "title": "Project EVE: Claude plays MMORPGs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5",
-      "source": "Anthropic",
-      "reason": "Claude玩MMORPG，展示智能体长程任务能力"
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "reason": "OpenAI发布湿实验室AI智能体基准，填补评测空白"
-    },
-    {
-      "title": "Scientist World: Grow a Research World for AI-Scientists",
-      "sourceUrl": "http://arxiv.org/abs/2611.08478v1",
-      "source": "arXiv",
-      "reason": "为AI科学家构建研究世界，前沿范式探索"
-    },
-    {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "HuggingFace Blog",
-      "reason": "英伟达开源交互式世界模拟模型，值得关注"
+      "title": "Apple is racing to make Siri more agentic",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "reason": "苹果加速Siri智能体化，消费级AI竞争新动向"
     }
   ],
-  "trendSummary": "本周AI圈聚焦智能体从记忆、游戏到科学实验的能力拓展，同时安全与多语种语音识别持续升温。"
+  "trendSummary": "本周AI圈聚焦智能体能力边界：从金融落地遇阻到游戏、科研、机器人多场景探索，同时关注记忆机制与安全漏洞。"
 }
