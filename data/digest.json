@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T01:44:27.733Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T04:07:51.653Z",
   "picks": [
     {
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "sourceUrl": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "source": "Hacker News",
-      "reason": "高盛撤下Claude Code，企业级AI落地风向标事件"
-    },
-    {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "source": "TechCrunch",
-      "reason": "英伟达调查黄仁勋涉华间谍关系，重大公司治理冲击"
-    },
-    {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "sourceUrl": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "Hacker News",
-      "reason": "Claude Code泄露密码至公开仓库，安全警示性强"
-    },
-    {
-      "title": "The components of agent memory",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uaktEZlp1anNnLVpGTHNDMXE2d0p2cmxiRzZ3REI2QWQzYndMV01KVk1UYWExM0RlSF9YR3FrRzd6Wllhcm80NDZWanpDTV9zZkNoZWlzcWp4YWxDNkFqa1p2Z290X3BobFg1TnBn?oc=5",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic官方拆解智能体记忆架构，技术必读"
+      "reason": "Anthropic发布双新模型，旗舰能力更新最受关注"
     },
     {
-      "title": "Apple is racing to make Siri more agentic",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "source": "The Verge",
-      "reason": "苹果加速Siri智能体化，消费级AI竞争新动向"
+      "title": "Claude can design electronic prototypes from start to finish",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5",
+      "source": "Anthropic",
+      "reason": "Claude端到端设计电子原型，AI工程落地新突破"
+    },
+    {
+      "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "sourceUrl": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+      "source": "MIT News",
+      "reason": "MIT单模型模拟多物质行为，科学仿真重要进展"
+    },
+    {
+      "title": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "sourceUrl": "https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "source": "MIT News",
+      "reason": "FLEX让机器人超越字面指令，交互更自然"
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "sourceUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "reason": "ChatGPT企业版上架AWS市场，渠道扩张利好企业采用"
     }
   ],
-  "trendSummary": "本周AI圈聚焦智能体能力边界：从金融落地遇阻到游戏、科研、机器人多场景探索，同时关注记忆机制与安全漏洞。"
+  "trendSummary": "本周AI圈聚焦模型迭代与产业落地，Claude新版本强化原型设计能力，企业级应用加速接入云市场，同时合成数据、算力管控与智能编程工具持续升温。"
 }
