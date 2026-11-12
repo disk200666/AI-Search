@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T01:56:59.166Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T03:00:58.466Z",
   "picks": [
-    {
-      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic发布双版本新模型，模型能力迭代最受关注"
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "sourceUrl": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "Google DeepMind",
-      "reason": "DeepMind用Lean验证代码，形式化验证重大突破"
-    },
     {
       "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
       "sourceUrl": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
       "source": "Microsoft Research",
-      "reason": "微软揭示AI代理后门技术，安全风险值得警惕"
+      "reason": "微软发现AI代理后门技术，安全风险重大"
     },
     {
-      "title": "Anthropic launches roadshow for proposed initial public offering",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ?oc=5",
+      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic启动IPO路演，行业资本格局重大事件"
+      "reason": "多用户多代理团队性能崩溃研究，直击协作痛点"
     },
     {
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "sourceUrl": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
       "source": "Google DeepMind",
-      "reason": "Gemini Robotics升级，机器人灵巧操作能力提升"
+      "reason": "AlphaGenome 2解码DNA与疾病关联，科研价值高"
+    },
+    {
+      "title": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pT3BQSS05MGNNbk1LLTc3SXExY3paYnBObEs1S2d3MDk3UEE2N29VenZFWlRtZm5RNXlKdE8xRlowXzY4NHN0TnRJQUhkYk9ZS191dnR6S3A1N1RKMWdGa0JYY0pubWJiRHc?oc=5",
+      "source": "Anthropic",
+      "reason": "稀释投毒数据反增强效果，颠覆安全认知"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI",
+      "reason": "Gemini决策API发布，多模态应用新基建"
     }
   ],
-  "trendSummary": "本周AI圈资本动作密集，Anthropic启动IPO路演，谷歌Gemini加速渗透医疗与日常场景，英伟达加码开源基建，法律、创意等行业应用持续深化。"
+  "trendSummary": "本周AI热点从法律、科研到环保全面落地，多智能体协作短板与端侧小模型成新焦点，大厂加速规模化应用。"
 }
