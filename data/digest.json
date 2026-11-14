@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T02:38:15.196Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T02:27:33.135Z",
   "picks": [
     {
-      "title": "Jensen Huang resigns",
-      "sourceUrl": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "source": "Hacker News",
-      "reason": "黄仁勋卸任英伟达CEO，行业格局或将剧变"
+      "title": "Introducing ChatGPT Wallet",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "reason": "ChatGPT推出钱包，AI代理支付安全成关键新方向"
     },
     {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "source": "Google DeepMind",
-      "reason": "DeepMind发布Gemini 4 Hydrogen，旗舰模型升级"
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "sourceUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "HuggingFace Blog",
+      "reason": "llama.cpp发布v1.0.0，本地AI生态迎来里程碑"
     },
     {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "sourceUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI",
-      "reason": "Gemini 4 Hydrogen全球接入谷歌搜索，影响广泛"
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "sourceUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "source": "Google DeepMind",
-      "reason": "AlphaGenome 2解码DNA与疾病，科研价值高"
-    },
-    {
-      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
+      "title": "Building strong safety evaluations",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
       "source": "Anthropic",
-      "reason": "Anthropic揭示多智能体协作性能退化问题"
+      "reason": "Anthropic谈安全评估构建，关乎AI治理核心议题"
+    },
+    {
+      "title": "New AI “copilot” helps engineers design better structures",
+      "sourceUrl": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+      "source": "MIT News",
+      "reason": "MIT推出工程AI副驾驶，人机协作设计新范式"
+    },
+    {
+      "title": "Helping robots fit into the human workplace",
+      "sourceUrl": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+      "source": "MIT News",
+      "reason": "MIT报道机器人融入职场，落地应用值得关注"
     }
   ],
-  "trendSummary": "本周AI圈聚焦大模型落地提速，Gemini新版本驱动搜索升级，企业借助Codex加速产品迭代，同时气候预测等可信AI研究取得进展。"
+  "trendSummary": "本周AI热点聚焦安全评估、本地生态与机器人落地，ChatGPT钱包和工程副驾等应用加速融入实际场景。"
 }
