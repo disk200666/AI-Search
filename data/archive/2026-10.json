@@ -219,7 +219,7 @@
     "origin": "hackernews",
     "aiNote": "谷歌新旗舰模型性能与定价曝光，AI竞赛进入性价比硬碰硬阶段。",
     "image": null,
-    "heat": 19,
+    "heat": 20,
     "firstSeen": "2026-10-01T01:18:23.321Z",
     "fetchedAt": null,
     "tier": 2
@@ -957,7 +957,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-01T01:18:23.321Z",
     "fetchedAt": null,
     "tier": 1
@@ -21633,7 +21633,7 @@
     "aiSelected": true,
     "origin": "rss:nvidia",
     "aiNote": null,
-    "heat": 40,
+    "heat": 39,
     "firstSeen": "2026-10-30T01:58:02.804Z",
     "fetchedAt": null,
     "tier": 1
@@ -25196,7 +25196,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": "顶尖研究者也怀疑通用超智能，但行业乐观预期仍驱动快速迭代，值得关注。",
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-10-10T01:45:46.349Z",
     "fetchedAt": null,
     "tier": 2
@@ -42859,7 +42859,7 @@
     "aiSelected": true,
     "origin": "rss:google-research",
     "aiNote": "AI智能体迈向自主湿实验室，生物现实锚定成关键一步。",
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-17T00:30:15.770Z",
     "fetchedAt": null,
     "tier": 1
@@ -53295,7 +53295,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 19,
+    "heat": 18,
     "firstSeen": "2026-10-21T00:38:02.128Z",
     "fetchedAt": null,
     "tier": 2
@@ -56089,7 +56089,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 24,
+    "heat": 23,
     "firstSeen": "2026-10-22T00:41:55.937Z",
     "fetchedAt": null,
     "tier": 2
@@ -59003,7 +59003,7 @@
     "aiSelected": true,
     "origin": "rss:msr",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-23T00:41:01.780Z",
     "fetchedAt": null,
     "tier": 1
@@ -59156,7 +59156,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-23T00:41:01.780Z",
     "fetchedAt": null,
     "tier": 1
@@ -60181,12 +60181,12 @@
       "ai-engineering",
       "evaluation"
     ],
-    "engagement": 194,
+    "engagement": 195,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 21,
+    "heat": 20,
     "firstSeen": "2026-10-23T00:41:01.780Z",
     "fetchedAt": null,
     "tier": 2
@@ -62061,7 +62061,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-24T00:43:32.160Z",
     "fetchedAt": null,
     "tier": 2
@@ -66332,7 +66332,7 @@
       "coloros",
       "Python"
     ],
-    "engagement": 8039,
+    "engagement": 8146,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -67443,7 +67443,7 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-27T01:29:17.462Z",
     "fetchedAt": null,
     "tier": 2
@@ -67668,7 +67668,7 @@
     "aiSelected": true,
     "origin": "rss:apple-ml",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-27T01:29:17.462Z",
     "fetchedAt": null,
     "tier": 1
@@ -69005,12 +69005,12 @@
       "data-extraction",
       "Rust"
     ],
-    "engagement": 273,
+    "engagement": 274,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 22,
+    "heat": 20,
     "firstSeen": "2026-10-27T01:29:17.462Z",
     "fetchedAt": null,
     "tier": 2
@@ -71069,7 +71069,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-28T01:23:34.116Z",
     "fetchedAt": null,
     "tier": 2
@@ -72429,12 +72429,12 @@
       "gpu",
       "TypeScript"
     ],
-    "engagement": 522,
+    "engagement": 523,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 24,
+    "heat": 27,
     "firstSeen": "2026-10-28T01:23:34.116Z",
     "fetchedAt": null,
     "tier": 2
@@ -73710,7 +73710,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-29T01:48:33.496Z",
     "fetchedAt": null,
     "tier": 1
@@ -73880,7 +73880,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-29T01:48:33.496Z",
     "fetchedAt": null,
     "tier": 1
@@ -75877,7 +75877,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-10-29T01:48:33.496Z",
     "fetchedAt": null,
     "tier": 2
@@ -76254,12 +76254,12 @@
       "deepagents",
       "JavaScript"
     ],
-    "engagement": 618,
+    "engagement": 621,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 25,
+    "heat": 28,
     "firstSeen": "2026-10-29T01:48:33.496Z",
     "fetchedAt": null,
     "tier": 2
@@ -77361,7 +77361,7 @@
     "aiSelected": true,
     "origin": "rss:bensbites",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-10-30T01:58:02.804Z",
     "fetchedAt": null,
     "tier": 2
@@ -77976,7 +77976,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-30T01:58:02.804Z",
     "fetchedAt": null,
     "tier": 1
@@ -77993,7 +77993,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-30T01:58:02.804Z",
     "fetchedAt": null,
     "tier": 1
@@ -78010,7 +78010,7 @@
     "aiSelected": true,
     "origin": "rss:hf-blog",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-30T01:58:02.804Z",
     "fetchedAt": null,
     "tier": 1
@@ -79141,7 +79141,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": "七位MIT成员入选，聚焦有益AI前沿研究，彰显顶尖学府在AI安全与伦理方向的持续引领。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 1
@@ -79209,7 +79209,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": "研究AI助选回答的偏误，关乎选举公正与算法责任。",
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 1
@@ -79802,7 +79802,7 @@
     "aiSelected": true,
     "origin": "rss:msr",
     "aiNote": null,
-    "heat": 36,
+    "heat": 35,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 1
@@ -80239,7 +80239,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 26,
+    "heat": 25,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 2
@@ -80763,12 +80763,12 @@
       "automation",
       "Kotlin"
     ],
-    "engagement": 8624,
+    "engagement": 8726,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 2
@@ -80878,7 +80878,7 @@
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 2
@@ -81536,7 +81536,7 @@
       "coding-agent",
       "Dart"
     ],
-    "engagement": 22782,
+    "engagement": 23819,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
