@@ -219,7 +219,7 @@
     "origin": "hackernews",
     "aiNote": "谷歌新旗舰模型性能与定价曝光，AI竞赛进入性价比硬碰硬阶段。",
     "image": null,
-    "heat": 20,
+    "heat": 21,
     "firstSeen": "2026-10-01T01:18:23.321Z",
     "fetchedAt": null,
     "tier": 2
@@ -7020,7 +7020,7 @@
     "aiSelected": true,
     "origin": "rss:google-ai",
     "aiNote": null,
-    "heat": 31,
+    "heat": 30,
     "firstSeen": "2026-10-03T01:12:36.410Z",
     "fetchedAt": null,
     "tier": 1
@@ -7529,7 +7529,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 26,
+    "heat": 27,
     "firstSeen": "2026-10-03T01:12:36.410Z",
     "fetchedAt": null,
     "tier": 2
@@ -30998,7 +30998,7 @@
     "aiSelected": true,
     "origin": "rss:importai",
     "aiNote": null,
-    "heat": 23,
+    "heat": 22,
     "firstSeen": "2026-10-13T03:03:30.813Z",
     "fetchedAt": null,
     "tier": 2
@@ -33916,7 +33916,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 24,
+    "heat": 25,
     "firstSeen": "2026-10-14T01:13:52.703Z",
     "fetchedAt": null,
     "tier": 2
@@ -46018,7 +46018,7 @@
     "origin": "hackernews",
     "aiNote": "版本号突进到v4.1且冠以Flash，暗示DeepSeek在推理速度与成本上再下探，值得关注其实际性",
     "image": null,
-    "heat": 28,
+    "heat": 29,
     "firstSeen": "2026-10-18T00:03:22.450Z",
     "fetchedAt": null,
     "tier": 2
@@ -52012,7 +52012,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-21T00:38:02.128Z",
     "fetchedAt": null,
     "tier": 2
@@ -60181,7 +60181,7 @@
       "ai-engineering",
       "evaluation"
     ],
-    "engagement": 198,
+    "engagement": 200,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -66332,7 +66332,7 @@
       "coloros",
       "Python"
     ],
-    "engagement": 8226,
+    "engagement": 8298,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -69005,7 +69005,7 @@
       "data-extraction",
       "Rust"
     ],
-    "engagement": 278,
+    "engagement": 279,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -69848,7 +69848,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": "高管学员把MIT课程所学落地威瑞森，还合著AI实战书，产教融合样本值得关注。",
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-28T01:23:34.116Z",
     "fetchedAt": null,
     "tier": 1
@@ -72429,7 +72429,7 @@
       "gpu",
       "TypeScript"
     ],
-    "engagement": 522,
+    "engagement": 531,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
@@ -74168,7 +74168,7 @@
     "aiSelected": true,
     "origin": "rss:interconnects",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-29T01:48:33.496Z",
     "fetchedAt": null,
     "tier": 2
@@ -74478,7 +74478,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-29T01:48:33.496Z",
     "fetchedAt": null,
     "tier": 1
@@ -77518,7 +77518,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 28,
+    "heat": 29,
     "firstSeen": "2026-10-30T01:58:02.804Z",
     "fetchedAt": null,
     "tier": 2
@@ -78027,7 +78027,7 @@
     "aiSelected": true,
     "origin": "rss:tldr-ai",
     "aiNote": null,
-    "heat": 25,
+    "heat": 24,
     "firstSeen": "2026-10-30T01:58:02.804Z",
     "fetchedAt": null,
     "tier": 2
@@ -79141,7 +79141,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": "七位MIT成员入选，聚焦有益AI前沿研究，彰显顶尖学府在AI安全与伦理方向的持续引领。",
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 1
@@ -79209,7 +79209,7 @@
     "aiSelected": true,
     "origin": "rss:mit-news-ai",
     "aiNote": "研究AI助选回答的偏误，关乎选举公正与算法责任。",
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 1
@@ -79802,7 +79802,7 @@
     "aiSelected": true,
     "origin": "rss:msr",
     "aiNote": null,
-    "heat": 35,
+    "heat": 34,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 1
@@ -80763,12 +80763,12 @@
       "automation",
       "Kotlin"
     ],
-    "engagement": 8886,
+    "engagement": 8985,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 34,
+    "heat": 33,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 2
@@ -81536,12 +81536,12 @@
       "coding-agent",
       "Dart"
     ],
-    "engagement": 25016,
+    "engagement": 26215,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
     "image": null,
-    "heat": 33,
+    "heat": 32,
     "firstSeen": "2026-10-31T01:36:06.140Z",
     "fetchedAt": null,
     "tier": 2

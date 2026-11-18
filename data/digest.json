@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T04:29:41.567Z",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T03:43:10.508Z",
   "picks": [
     {
-      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-      "sourceUrl": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-      "source": "NVIDIA",
-      "reason": "NVIDIA Vera Rubin首秀MLPerf即横扫训练与推理榜单"
-    },
-    {
-      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-      "sourceUrl": "https://blogs.nvidia.com/blog/rubin-hpc/",
-      "source": "NVIDIA",
-      "reason": "Rubin HPC新GPU发布，面向科学与工程智能体"
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "sourceUrl": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "source": "OpenAI",
-      "reason": "OpenAI扩大科研人员ChatGPT免费使用至20万人"
+      "reason": "GPT-6.2 Astra与Sol发布，专业输出与编程能力升级"
     },
     {
-      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "title": "Put Gemini to work for you",
+      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Google AI",
+      "reason": "Gemini Tasks六国免费开放，实用功能值得关注"
+    },
+    {
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "sourceUrl": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "source": "NVIDIA",
+      "reason": "英伟达SC26开幕，科学进入智能体时代"
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "reason": "ChatGPT推出销售插件及30余款合作插件"
+    },
+    {
+      "title": "Can AI help build a healthier future?",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
       "source": "Microsoft Research",
-      "reason": "TokenEconomizer让编程智能体少走弯路更省token"
-    },
-    {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "sourceUrl": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI",
-      "reason": "ChatGPT医疗版升级，计算机操作智能体落地临床"
+      "reason": "微软研究院探讨AI在医疗健康领域的应用前景"
     }
   ],
-  "trendSummary": "本周AI圈聚焦基础设施与算力升级，英伟达密集发布Rubin架构及CUDA生态新进展，同时AI编程效率与科学普惠应用也在加速推进。"
+  "trendSummary": "本周AI圈聚焦模型迭代与落地：GPT-6.2和Gemini加速商用，AI智能体深入科研与销售，同时人文、医疗与数学教育议题升温。"
 }
