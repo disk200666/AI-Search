@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T03:43:10.508Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T03:29:37.230Z",
   "picks": [
     {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "Anthropic prices initial public offering",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic启动IPO，AI头部公司资本化里程碑"
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
+      "reason": "Gemini 4 Neon发布，谷歌旗舰模型重大迭代"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "Google DeepMind",
+      "reason": "Genie 4开放，世界模型能力再升级"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI",
-      "reason": "GPT-6.2 Astra与Sol发布，专业输出与编程能力升级"
+      "reason": "OpenAI量化编码智能体加速科研的边界"
     },
     {
-      "title": "Put Gemini to work for you",
-      "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "source": "Google AI",
-      "reason": "Gemini Tasks六国免费开放，实用功能值得关注"
-    },
-    {
-      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "sourceUrl": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "source": "NVIDIA",
-      "reason": "英伟达SC26开幕，科学进入智能体时代"
-    },
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI",
-      "reason": "ChatGPT推出销售插件及30余款合作插件"
-    },
-    {
-      "title": "Can AI help build a healthier future?",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
-      "source": "Microsoft Research",
-      "reason": "微软研究院探讨AI在医疗健康领域的应用前景"
+      "title": "RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop",
+      "sourceUrl": "http://arxiv.org/abs/2611.23855v1",
+      "source": "arXiv",
+      "reason": "RoboBuilder让智能体用真实视频反馈设计机器人"
     }
   ],
-  "trendSummary": "本周AI圈聚焦模型迭代与落地：GPT-6.2和Gemini加速商用，AI智能体深入科研与销售，同时人文、医疗与数学教育议题升温。"
+  "trendSummary": "本周AI圈聚焦大模型迭代与落地：Gemini新版本及轻量设备适配、开源模型优化训练效率，同时AI公司IPO与硬件新品密集登场。"
 }
