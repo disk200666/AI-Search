@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T03:29:37.230Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T03:17:30.678Z",
   "picks": [
     {
-      "title": "Anthropic prices initial public offering",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic启动IPO，AI头部公司资本化里程碑"
+      "title": "Study reveals data centers’ long-distance damage to air quality",
+      "sourceUrl": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+      "source": "MIT News",
+      "reason": "揭示数据中心远程空气污染影响，环境议题重要"
     },
     {
-      "title": "Introducing Gemini 4 Neon",
-      "sourceUrl": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-      "source": "Google DeepMind",
-      "reason": "Gemini 4 Neon发布，谷歌旗舰模型重大迭代"
-    },
-    {
-      "title": "Genie 4 is now available",
-      "sourceUrl": "https://deepmind.google/blog/genie-4-is-now-available/",
-      "source": "Google DeepMind",
-      "reason": "Genie 4开放，世界模型能力再升级"
-    },
-    {
-      "title": "Research acceleration: The jagged frontier",
-      "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "source": "OpenAI",
-      "reason": "OpenAI量化编码智能体加速科研的边界"
+      "reason": "OpenAI性能工厂揭秘ChatGPT低延迟工程实践"
     },
     {
-      "title": "RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop",
-      "sourceUrl": "http://arxiv.org/abs/2611.23855v1",
+      "title": "AI helps researchers investigate how thousands of medical studies share code",
+      "sourceUrl": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "source": "MIT News",
+      "reason": "MIT用大模型审查数千医学研究代码共享"
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "reason": "Gemini API工具检索降低token消耗，实用"
+    },
+    {
+      "title": "Why Do LLMs Help with Scientific Misconduct Requests and What to Do About It?: Increasing the Trustworthiness of AI for Science",
+      "sourceUrl": "http://arxiv.org/abs/2611.25492v1",
       "source": "arXiv",
-      "reason": "RoboBuilder让智能体用真实视频反馈设计机器人"
+      "reason": "探讨LLM助长科研不端及治理，可信AI关键"
     }
   ],
-  "trendSummary": "本周AI圈聚焦大模型迭代与落地：Gemini新版本及轻量设备适配、开源模型优化训练效率，同时AI公司IPO与硬件新品密集登场。"
+  "trendSummary": "本周AI圈聚焦工具调用与检索能力下沉、AI深度介入科研与科学诚信治理，同时数据中心环境影响和语音交互细节持续受关注。"
 }
