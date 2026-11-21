@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-20T03:17:30.678Z",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T03:13:59.386Z",
   "picks": [
     {
-      "title": "Study reveals data centers’ long-distance damage to air quality",
-      "sourceUrl": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-      "source": "MIT News",
-      "reason": "揭示数据中心远程空气污染影响，环境议题重要"
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic完成IPO，AI头部公司资本化里程碑"
     },
     {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "sourceUrl": "https://openai.com/business/customer-stories/hebbia",
       "source": "OpenAI",
-      "reason": "OpenAI性能工厂揭秘ChatGPT低延迟工程实践"
+      "reason": "GPT-6 Astra金融研究实测，前沿模型落地案例"
     },
     {
-      "title": "AI helps researchers investigate how thousands of medical studies share code",
-      "sourceUrl": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "sourceUrl": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "source": "Google Research",
+      "reason": "Google Duplex进化为Gemini代打电话，产品化进展"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "reason": "OpenAI对抗性蒸馏防御，模型安全重要议题"
+    },
+    {
+      "title": "New approach enables physically consistent AI models of chaotic systems",
+      "sourceUrl": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
       "source": "MIT News",
-      "reason": "MIT用大模型审查数千医学研究代码共享"
-    },
-    {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI",
-      "reason": "Gemini API工具检索降低token消耗，实用"
-    },
-    {
-      "title": "Why Do LLMs Help with Scientific Misconduct Requests and What to Do About It?: Increasing the Trustworthiness of AI for Science",
-      "sourceUrl": "http://arxiv.org/abs/2611.25492v1",
-      "source": "arXiv",
-      "reason": "探讨LLM助长科研不端及治理，可信AI关键"
+      "reason": "物理约束AI建模混沌系统，方法学突破"
     }
   ],
-  "trendSummary": "本周AI圈聚焦工具调用与检索能力下沉、AI深度介入科研与科学诚信治理，同时数据中心环境影响和语音交互细节持续受关注。"
+  "trendSummary": "本周AI圈聚焦多模态交互与科学建模突破，同时资本动向与模型安全、落地效率成为关注焦点。"
 }
