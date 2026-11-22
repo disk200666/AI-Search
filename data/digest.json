@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T03:13:59.386Z",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T02:14:37.908Z",
   "picks": [
     {
-      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic完成IPO，AI头部公司资本化里程碑"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "sourceUrl": "https://openai.com/business/customer-stories/hebbia",
+      "title": "Combatting adversarial distillation",
+      "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI",
-      "reason": "GPT-6 Astra金融研究实测，前沿模型落地案例"
+      "reason": "OpenAI公开对抗蒸馏防御策略，关乎模型安全与知识产权"
     },
     {
       "title": "How Google Duplex evolved to also call businesses for you in Gemini",
       "sourceUrl": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
       "source": "Google Research",
-      "reason": "Google Duplex进化为Gemini代打电话，产品化进展"
+      "reason": "Google Duplex演进为Gemini企业通话，语音智能落地关键进展"
     },
     {
-      "title": "Combatting adversarial distillation",
-      "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "sourceUrl": "https://openai.com/business/customer-stories/hebbia",
       "source": "OpenAI",
-      "reason": "OpenAI对抗性蒸馏防御，模型安全重要议题"
+      "reason": "GPT-6 Astra金融研究实测，展示前沿模型商业价值"
     },
     {
       "title": "New approach enables physically consistent AI models of chaotic systems",
       "sourceUrl": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
       "source": "MIT News",
-      "reason": "物理约束AI建模混沌系统，方法学突破"
+      "reason": "物理约束让AI模拟混沌系统更可靠，科学计算重要突破"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "sourceUrl": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
+      "reason": "MedChemBench评估AI药物发现能力，医疗AI值得关注"
     }
   ],
-  "trendSummary": "本周AI圈聚焦多模态交互与科学建模突破，同时资本动向与模型安全、落地效率成为关注焦点。"
+  "trendSummary": "本周AI圈聚焦多模态交互与本地部署，模型能力向科研、金融等场景深入，同时安全与治理议题持续升温。"
 }
