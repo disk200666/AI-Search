@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T02:14:37.908Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T02:46:03.473Z",
   "picks": [
+    {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "sourceUrl": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "Hacker News",
+      "reason": "AI抛售致纳指回吐全年涨幅，Anthropic上市次日承压，市场风向标"
+    },
+    {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic完成IPO并全额行使超额配售，AI巨头资本化里程碑"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "sourceUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "reason": "OpenAI首席科学家谈限制AI发展速度，治理议题关键表态"
+    },
     {
       "title": "Combatting adversarial distillation",
       "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI",
-      "reason": "OpenAI公开对抗蒸馏防御策略，关乎模型安全与知识产权"
-    },
-    {
-      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-      "sourceUrl": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-      "source": "Google Research",
-      "reason": "Google Duplex演进为Gemini企业通话，语音智能落地关键进展"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "sourceUrl": "https://openai.com/business/customer-stories/hebbia",
-      "source": "OpenAI",
-      "reason": "GPT-6 Astra金融研究实测，展示前沿模型商业价值"
+      "reason": "OpenAI详解对抗性蒸馏防御，模型安全攻防前沿"
     },
     {
       "title": "New approach enables physically consistent AI models of chaotic systems",
       "sourceUrl": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
       "source": "MIT News",
-      "reason": "物理约束让AI模拟混沌系统更可靠，科学计算重要突破"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "sourceUrl": "https://openai.com/index/introducing-medchembench",
-      "source": "OpenAI",
-      "reason": "MedChemBench评估AI药物发现能力，医疗AI值得关注"
+      "reason": "MIT新方法以物理约束提升混沌系统建模可靠性，科研价值高"
     }
   ],
-  "trendSummary": "本周AI圈聚焦多模态交互与本地部署，模型能力向科研、金融等场景深入，同时安全与治理议题持续升温。"
+  "trendSummary": "本周AI圈聚焦多模态交互升级与科研应用深化，同时能耗、安全与数学基础问题引发广泛反思。"
 }
