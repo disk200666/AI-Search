@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T02:46:03.473Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T06:04:50.453Z",
   "picks": [
     {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "sourceUrl": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "source": "Hacker News",
-      "reason": "AI抛售致纳指回吐全年涨幅，Anthropic上市次日承压，市场风向标"
-    },
-    {
-      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic完成IPO并全额行使超额配售，AI巨头资本化里程碑"
-    },
-    {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "sourceUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "source": "TechCrunch",
-      "reason": "OpenAI首席科学家谈限制AI发展速度，治理议题关键表态"
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI",
-      "reason": "OpenAI详解对抗性蒸馏防御，模型安全攻防前沿"
-    },
-    {
-      "title": "New approach enables physically consistent AI models of chaotic systems",
-      "sourceUrl": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+      "title": "Many languages, one common neural code",
+      "sourceUrl": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
       "source": "MIT News",
-      "reason": "MIT新方法以物理约束提升混沌系统建模可靠性，科研价值高"
+      "reason": "MIT用多语言AI发现跨语言统一神经编码，认知与AI交叉重磅"
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "sourceUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "Google DeepMind",
+      "reason": "DeepMind用智能体与形式验证加速量子算法，方法学突破"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "sourceUrl": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "reason": "OpenAI与思科开源Linux运行时，大厂生态合作值得关注"
+    },
+    {
+      "title": "Supercharging transformer residual connections",
+      "sourceUrl": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "source": "Google Research",
+      "reason": "Google改进Transformer残差连接，基础架构优化有实用价值"
+    },
+    {
+      "title": "RepoClean: Evaluating Coding Agents on Repository-Level Obsolete Code Cleanup",
+      "sourceUrl": "http://arxiv.org/abs/2611.30350v1",
+      "source": "arXiv",
+      "reason": "RepoClean评测编码智能体清理仓库废弃代码，贴近工程落地"
     }
   ],
-  "trendSummary": "本周AI圈聚焦多模态交互升级与科研应用深化，同时能耗、安全与数学基础问题引发广泛反思。"
+  "trendSummary": "本周AI热点集中在多模态与机器人、搜索个性化及模型训练优化，同时隐私保护、代码清理等落地应用加速推进。"
 }
