@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T06:04:50.453Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T04:54:20.634Z",
   "picks": [
     {
-      "title": "Many languages, one common neural code",
-      "sourceUrl": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
-      "source": "MIT News",
-      "reason": "MIT用多语言AI发现跨语言统一神经编码，认知与AI交叉重磅"
-    },
-    {
-      "title": "Finding faster quantum algorithms with agents and formal verification",
-      "sourceUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "source": "Google DeepMind",
-      "reason": "DeepMind用智能体与形式验证加速量子算法，方法学突破"
-    },
-    {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "sourceUrl": "https://openai.com/index/introducing-shirudo",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "source": "OpenAI",
-      "reason": "OpenAI与思科开源Linux运行时，大厂生态合作值得关注"
+      "reason": "GPT-6展现内在蛋白质设计能力，前沿突破"
     },
     {
-      "title": "Supercharging transformer residual connections",
-      "sourceUrl": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "source": "Google Research",
-      "reason": "Google改进Transformer残差连接，基础架构优化有实用价值"
+      "title": "Measuring and mitigating agent sandbox escape with Siren",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
+      "source": "Anthropic",
+      "reason": "Anthropic提出智能体沙箱逃逸度量与缓解方案"
     },
     {
-      "title": "RepoClean: Evaluating Coding Agents on Repository-Level Obsolete Code Cleanup",
-      "sourceUrl": "http://arxiv.org/abs/2611.30350v1",
+      "title": "Within-task hazards of AI agents: unidentified by time-horizon curves, identified by repeated runs",
+      "sourceUrl": "http://arxiv.org/abs/2611.32415v1",
       "source": "arXiv",
-      "reason": "RepoClean评测编码智能体清理仓库废弃代码，贴近工程落地"
+      "reason": "揭示AI智能体任务内隐患，评估方法有洞见"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI",
+      "reason": "业余天文学家借Codex与Astra搜寻系外行星"
+    },
+    {
+      "title": "Agentic system personalizes physical controls to help users “DJ their art”",
+      "sourceUrl": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+      "source": "MIT News",
+      "reason": "MIT智能体系统个性化物理控制，交互创新"
     }
   ],
-  "trendSummary": "本周AI热点集中在多模态与机器人、搜索个性化及模型训练优化，同时隐私保护、代码清理等落地应用加速推进。"
+  "trendSummary": "本周AI热点聚焦智能体安全与落地，从沙箱逃逸防护到任务风险识别，同时大模型加速渗透科研、硬件与体育场景。"
 }
