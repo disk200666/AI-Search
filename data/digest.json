@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T04:54:20.634Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T04:10:29.499Z",
   "picks": [
     {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "OpenAI",
-      "reason": "GPT-6展现内在蛋白质设计能力，前沿突破"
+      "title": "Where scientists draw the line on AI agents",
+      "sourceUrl": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "HuggingFace Blog",
+      "reason": "HuggingFace探讨AI代理边界，行业标准议题"
     },
     {
-      "title": "Measuring and mitigating agent sandbox escape with Siren",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
-      "source": "Anthropic",
-      "reason": "Anthropic提出智能体沙箱逃逸度量与缓解方案"
-    },
-    {
-      "title": "Within-task hazards of AI agents: unidentified by time-horizon curves, identified by repeated runs",
-      "sourceUrl": "http://arxiv.org/abs/2611.32415v1",
+      "title": "Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments",
+      "sourceUrl": "http://arxiv.org/abs/2611.34254v1",
       "source": "arXiv",
-      "reason": "揭示AI智能体任务内隐患，评估方法有洞见"
+      "reason": "可执行化学环境评测LLM代理，方法新颖"
     },
     {
-      "title": "Searching for distant planets with Astra",
-      "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "source": "OpenAI",
-      "reason": "业余天文学家借Codex与Astra搜寻系外行星"
+      "title": "Did the Model Forecast It, or Already Know It? Evaluating Large Language Models for Novel Drug-Target Prioritisation with a Temporal Knowledge-Graph Oracle",
+      "sourceUrl": "http://arxiv.org/abs/2611.34247v1",
+      "source": "arXiv",
+      "reason": "时序知识图谱检验LLM预测而非记忆"
     },
     {
-      "title": "Agentic system personalizes physical controls to help users “DJ their art”",
-      "sourceUrl": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
-      "source": "MIT News",
-      "reason": "MIT智能体系统个性化物理控制，交互创新"
+      "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+      "sourceUrl": "http://arxiv.org/abs/2611.34290v1",
+      "source": "arXiv",
+      "reason": "多代理协调长视频状态转换，前沿方向"
+    },
+    {
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "sourceUrl": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "source": "Google Research",
+      "reason": "LLM助手可验证社会推理，实用价值高"
     }
   ],
-  "trendSummary": "本周AI热点聚焦智能体安全与落地，从沙箱逃逸防护到任务风险识别，同时大模型加速渗透科研、硬件与体育场景。"
+  "trendSummary": "本周AI研究聚焦智能体边界与安全、多模态生成及模型效率优化，兼顾可验证推理与预测应用拓展。"
 }
