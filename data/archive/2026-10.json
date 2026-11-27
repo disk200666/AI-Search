@@ -7529,7 +7529,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 27,
+    "heat": 26,
     "firstSeen": "2026-10-03T01:12:36.410Z",
     "fetchedAt": null,
     "tier": 2
@@ -47365,7 +47365,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 14,
+    "heat": 15,
     "firstSeen": "2026-10-19T00:13:05.086Z",
     "fetchedAt": null,
     "tier": 2
@@ -52700,7 +52700,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 29,
+    "heat": 28,
     "firstSeen": "2026-10-21T00:38:02.128Z",
     "fetchedAt": null,
     "tier": 2
@@ -70302,7 +70302,7 @@
     "aiSelected": true,
     "origin": "rss:deepmind",
     "aiNote": null,
-    "heat": 32,
+    "heat": 31,
     "firstSeen": "2026-10-28T01:23:34.116Z",
     "fetchedAt": null,
     "tier": 1
@@ -70967,7 +70967,7 @@
     "origin": "hackernews",
     "aiNote": null,
     "image": null,
-    "heat": 20,
+    "heat": 19,
     "firstSeen": "2026-10-28T01:23:34.116Z",
     "fetchedAt": null,
     "tier": 2
@@ -80763,7 +80763,7 @@
       "automation",
       "Kotlin"
     ],
-    "engagement": 10015,
+    "engagement": 10088,
     "aiSelected": true,
     "origin": "github",
     "aiNote": null,
