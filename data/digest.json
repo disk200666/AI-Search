@@ -1,37 +1,37 @@
 {
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T04:15:47.872Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T03:54:46.909Z",
   "picks": [
     {
-      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "sourceUrl": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "source": "HuggingFace Blog",
-      "reason": "llama.cpp推出AMD平台基准面板，本地推理性能可量化对比"
-    },
-    {
-      "title": "How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches",
-      "sourceUrl": "http://arxiv.org/abs/2611.34875v1",
-      "source": "arXiv",
-      "reason": "实证揭示编码智能体过度编辑问题，直击实际部署痛点"
-    },
-    {
-      "title": "Where scientists draw the line on AI agents",
-      "sourceUrl": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "source": "HuggingFace Blog",
-      "reason": "科学家对AI智能体的边界划定，关乎行业治理共识"
+      "title": "AI made self-hosting fun again",
+      "sourceUrl": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "Hacker News",
+      "reason": "自托管因AI重获乐趣，社区热议，值得关注"
     },
     {
       "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
       "sourceUrl": "https://huggingface.co/blog/training-swarms",
       "source": "HuggingFace Blog",
-      "reason": "多智能体系统构建训练评估方法论，实用性强"
+      "reason": "多智能体系统构建训练评测，实用指南"
     },
     {
-      "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
-      "sourceUrl": "http://arxiv.org/abs/2611.34928v1",
+      "title": "Where scientists draw the line on AI agents",
+      "sourceUrl": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "HuggingFace Blog",
+      "reason": "科学家对AI智能体的边界，观点有分量"
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "sourceUrl": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "HuggingFace Blog",
+      "reason": "llama.cpp AMD基准面板，本地推理实用"
+    },
+    {
+      "title": "Mixture-of-Loops Transformer",
+      "sourceUrl": "http://arxiv.org/abs/2611.34923v1",
       "source": "arXiv",
-      "reason": "难题数学推理的多样替代路径，提升LLM推理鲁棒性"
+      "reason": "循环Transformer新架构，提升表达力"
     }
   ],
-  "trendSummary": "本周AI圈聚焦多智能体系统构建与评测、推理效率优化及多领域基准测试，硬件性能监控与视觉推理探索同步升温。"
+  "trendSummary": "本周AI圈聚焦硬件加速与开源生态，视频生成、本地部署和多智能体训练持续升温，模型评测与安全研究也在同步推进。"
 }
